@@ -1,0 +1,48 @@
+.panel-title {
+    font-size: 14px;
+    font-weight:600;
+}
+
+
+#hospital-data {
+    border-style: solid;
+    border-width: thin;
+    border-radius: 10px;
+    border-color: lightgrey;
+    padding: 10px;
+    /* padding-bottom: 0%; */
+}
+
+/* Text inside the hospital data box */
+.hosp-data {
+    font-size: 14px;
+    font-weight:300;
+    line-height: 1.4;
+    padding-bottom: 0%;
+    padding-top: 0%;
+}
+
+.graphSelect {
+    display: inline-block;
+    outline: none;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 600;
+    border-radius: 8px;
+    padding: 13px 23px;
+    border: 1px solid #222222;
+    transition: box-shadow 0.2s ease 0s, -ms-transform 0.1s ease 0s, -webkit-transform 0.1s ease 0s, transform 0.1s ease 0s;
+    background: #fff;
+    color: #222222;
+    :hover {
+        border-color: #000000;
+        background: #f7f7f7;
+    }
+}
+
+#buttons {
+    padding-top: 40px;
+    padding-bottom: 0px;
+    text-align: center;
+}

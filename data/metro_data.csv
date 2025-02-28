@@ -1,0 +1,540 @@
+﻿date,name,cylinder,units
+1/01/2017,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/04/2017,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/07/2017,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/10/2017,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/01/2018,Armadale-Kelmscott Memorial Hospital,cylinder_c,1
+1/01/2018,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/06/2018,Armadale-Kelmscott Memorial Hospital,cylinder_f8,2
+1/08/2018,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/10/2018,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/12/2018,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/02/2019,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/07/2019,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/08/2019,Armadale-Kelmscott Memorial Hospital,cylinder_c,1
+1/10/2019,Armadale-Kelmscott Memorial Hospital,cylinder_f8,2
+1/12/2019,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/02/2020,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/04/2020,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/07/2020,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/10/2020,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/12/2020,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/04/2021,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/07/2021,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/11/2021,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/01/2022,Armadale-Kelmscott Memorial Hospital,cylinder_c,1
+1/02/2022,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/04/2022,Armadale-Kelmscott Memorial Hospital,cylinder_c,2
+1/05/2022,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/09/2022,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/11/2022,Armadale-Kelmscott Memorial Hospital,cylinder_c,2
+1/11/2022,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/12/2022,Armadale-Kelmscott Memorial Hospital,cylinder_c,2
+1/03/2023,Armadale-Kelmscott Memorial Hospital,cylinder_f8,2
+1/05/2023,Armadale-Kelmscott Memorial Hospital,cylinder_c,2
+1/06/2023,Armadale-Kelmscott Memorial Hospital,cylinder_c,2
+1/07/2023,Armadale-Kelmscott Memorial Hospital,cylinder_c,1
+1/08/2023,Armadale-Kelmscott Memorial Hospital,cylinder_c,1
+1/08/2023,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/10/2023,Armadale-Kelmscott Memorial Hospital,cylinder_c,1
+1/11/2023,Armadale-Kelmscott Memorial Hospital,cylinder_c,2
+1/11/2023,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/12/2023,Armadale-Kelmscott Memorial Hospital,cylinder_c,1
+1/01/2024,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/05/2024,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/07/2024,Armadale-Kelmscott Memorial Hospital,cylinder_c,2
+1/07/2024,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/09/2024,Armadale-Kelmscott Memorial Hospital,cylinder_d,2
+1/09/2024,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/10/2024,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/10/2024,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/12/2024,Armadale-Kelmscott Memorial Hospital,cylinder_c,1
+1/12/2024,Armadale-Kelmscott Memorial Hospital,cylinder_f8,1
+1/01/2017,Bentley Hospital,cylinder_e,2
+1/03/2017,Bentley Hospital,cylinder_e,4
+1/05/2017,Bentley Hospital,cylinder_e,2
+1/07/2017,Bentley Hospital,cylinder_e,2
+1/09/2017,Bentley Hospital,cylinder_e,2
+1/10/2017,Bentley Hospital,cylinder_e,2
+1/12/2017,Bentley Hospital,cylinder_e,2
+1/02/2018,Bentley Hospital,cylinder_e,3
+1/03/2018,Bentley Hospital,cylinder_e,1
+1/04/2018,Bentley Hospital,cylinder_e,2
+1/05/2018,Bentley Hospital,cylinder_e,2
+1/06/2018,Bentley Hospital,cylinder_e,2
+1/07/2018,Bentley Hospital,cylinder_e,4
+1/08/2018,Bentley Hospital,cylinder_e,2
+1/09/2018,Bentley Hospital,cylinder_e,4
+1/10/2018,Bentley Hospital,cylinder_e,2
+1/10/2018,Bentley Hospital,cylinder_g,6
+1/01/2019,Bentley Hospital,cylinder_g,2
+1/03/2019,Bentley Hospital,cylinder_g,2
+1/06/2019,Bentley Hospital,cylinder_g,2
+1/07/2019,Bentley Hospital,cylinder_g,2
+1/09/2019,Bentley Hospital,cylinder_g,2
+1/11/2019,Bentley Hospital,cylinder_g,2
+1/12/2019,Bentley Hospital,cylinder_g,2
+1/02/2020,Bentley Hospital,cylinder_g,2
+1/07/2020,Bentley Hospital,cylinder_g,2
+1/01/2021,Bentley Hospital,cylinder_g,2
+1/07/2021,Bentley Hospital,cylinder_g,4
+1/01/2022,Bentley Hospital,cylinder_g,2
+1/03/2022,Bentley Hospital,cylinder_g,2
+1/07/2022,Bentley Hospital,cylinder_g,2
+1/04/2023,Bentley Hospital,cylinder_c,1
+1/08/2023,Bentley Hospital,cylinder_g,2
+1/02/2024,Bentley Hospital,cylinder_g,2
+1/07/2024,Bentley Hospital,cylinder_d,1
+1/08/2024,Bentley Hospital,cylinder_g,2
+1/10/2024,Bentley Hospital,cylinder_g,2
+1/10/2024,Bentley Hospital,cylinder_g,2
+1/11/2024,Bentley Hospital,cylinder_d,2
+1/06/2017,Bethesda Hospital,cylinder_g,2
+1/08/2017,Bethesda Hospital,cylinder_g,2
+1/11/2017,Bethesda Hospital,cylinder_g,2
+1/12/2017,Bethesda Hospital,cylinder_g,2
+1/02/2018,Bethesda Hospital,cylinder_g,2
+1/05/2018,Bethesda Hospital,cylinder_g,1
+1/06/2018,Bethesda Hospital,cylinder_g,2
+1/09/2018,Bethesda Hospital,cylinder_g,2
+1/01/2019,Bethesda Hospital,cylinder_g,2
+1/03/2019,Bethesda Hospital,cylinder_g,2
+1/04/2019,Bethesda Hospital,cylinder_g,8
+1/09/2019,Bethesda Hospital,cylinder_g,2
+1/12/2019,Bethesda Hospital,cylinder_g,2
+1/03/2020,Bethesda Hospital,cylinder_g,2
+1/10/2020,Bethesda Hospital,cylinder_g,3
+1/02/2021,Bethesda Hospital,cylinder_g,2
+1/05/2021,Bethesda Hospital,cylinder_g,2
+1/09/2021,Bethesda Hospital,cylinder_g,2
+1/12/2021,Bethesda Hospital,cylinder_g,2
+1/05/2022,Bethesda Hospital,cylinder_g,2
+1/07/2022,Bethesda Hospital,cylinder_c,1
+1/08/2022,Bethesda Hospital,cylinder_g,1
+1/01/2023,Bethesda Hospital,cylinder_g,5
+1/08/2023,Bethesda Hospital,cylinder_g,3
+1/11/2023,Bethesda Hospital,cylinder_g,3
+1/02/2024,Bethesda Hospital,cylinder_g,4
+1/12/2024,Bethesda Hospital,cylinder_g,2
+1/01/2017,Fiona Stanley Hospital,cylinder_f8,2
+1/03/2017,Fiona Stanley Hospital,cylinder_f8,1
+1/04/2017,Fiona Stanley Hospital,cylinder_f8,1
+1/07/2017,Fiona Stanley Hospital,cylinder_f8,2
+1/08/2017,Fiona Stanley Hospital,cylinder_f8,1
+1/02/2018,Fiona Stanley Hospital,cylinder_f8,4
+1/08/2018,Fiona Stanley Hospital,cylinder_f8,2
+1/10/2018,Fiona Stanley Hospital,cylinder_f8,1
+1/03/2019,Fiona Stanley Hospital,cylinder_f8,4
+1/08/2019,Fiona Stanley Hospital,cylinder_f8,1
+1/10/2019,Fiona Stanley Hospital,cylinder_f8,1
+1/12/2019,Fiona Stanley Hospital,cylinder_f8,1
+1/03/2020,Fiona Stanley Hospital,cylinder_f8,1
+1/04/2020,Fiona Stanley Hospital,cylinder_f8,1
+1/08/2020,Fiona Stanley Hospital,cylinder_f8,1
+1/09/2020,Fiona Stanley Hospital,cylinder_f8,1
+1/12/2020,Fiona Stanley Hospital,cylinder_f8,1
+1/02/2021,Fiona Stanley Hospital,cylinder_f8,1
+1/04/2021,Fiona Stanley Hospital,cylinder_f8,1
+1/06/2021,Fiona Stanley Hospital,cylinder_f8,1
+1/09/2021,Fiona Stanley Hospital,cylinder_f8,1
+1/12/2021,Fiona Stanley Hospital,cylinder_f8,1
+1/02/2022,Fiona Stanley Hospital,cylinder_f8,1
+1/03/2022,Fiona Stanley Hospital,cylinder_f8,1
+1/06/2022,Fiona Stanley Hospital,cylinder_f8,1
+1/08/2022,Fiona Stanley Hospital,cylinder_f8,2
+1/12/2022,Fiona Stanley Hospital,cylinder_f8,1
+1/02/2023,Fiona Stanley Hospital,cylinder_f8,1
+1/05/2023,Fiona Stanley Hospital,cylinder_f8,1
+1/07/2023,Fiona Stanley Hospital,cylinder_f8,1
+1/09/2023,Fiona Stanley Hospital,cylinder_f8,1
+1/12/2023,Fiona Stanley Hospital,cylinder_f8,1
+1/02/2024,Fiona Stanley Hospital,cylinder_f8,1
+1/05/2024,Fiona Stanley Hospital,cylinder_f8,1
+1/07/2024,Fiona Stanley Hospital,cylinder_f8,1
+1/09/2024,Fiona Stanley Hospital,cylinder_f8,1
+1/12/2024,Fiona Stanley Hospital,cylinder_f8,5
+1/09/2017,Fremantle Hospital,cylinder_g,5
+1/02/2018,Fremantle Hospital,cylinder_c,1
+1/02/2018,Fremantle Hospital,cylinder_d,2
+1/02/2018,Fremantle Hospital,cylinder_g,2
+1/06/2018,Fremantle Hospital,cylinder_g,2
+1/10/2018,Fremantle Hospital,cylinder_c,1
+1/10/2018,Fremantle Hospital,cylinder_d,1
+1/10/2018,Fremantle Hospital,cylinder_g,2
+1/02/2019,Fremantle Hospital,cylinder_c,1
+1/02/2019,Fremantle Hospital,cylinder_g,2
+1/09/2019,Fremantle Hospital,cylinder_g,2
+1/11/2019,Fremantle Hospital,cylinder_g,2
+1/03/2020,Fremantle Hospital,cylinder_g,2
+1/05/2020,Fremantle Hospital,cylinder_d,1
+1/06/2020,Fremantle Hospital,cylinder_g,2
+1/07/2020,Fremantle Hospital,cylinder_d,2
+1/10/2020,Fremantle Hospital,cylinder_g,2
+1/01/2021,Fremantle Hospital,cylinder_g,2
+1/05/2021,Fremantle Hospital,cylinder_g,2
+1/06/2021,Fremantle Hospital,cylinder_c,1
+1/08/2021,Fremantle Hospital,cylinder_g,2
+1/10/2021,Fremantle Hospital,cylinder_c,2
+1/11/2021,Fremantle Hospital,cylinder_g,2
+1/02/2022,Fremantle Hospital,cylinder_g,2
+1/03/2022,Fremantle Hospital,cylinder_g,2
+1/05/2022,Fremantle Hospital,cylinder_d,1
+1/05/2022,Fremantle Hospital,cylinder_g,2
+1/07/2022,Fremantle Hospital,cylinder_c,1
+1/09/2022,Fremantle Hospital,cylinder_g,2
+1/10/2022,Fremantle Hospital,cylinder_g,2
+1/03/2023,Fremantle Hospital,cylinder_g,2
+1/07/2023,Fremantle Hospital,cylinder_g,2
+1/10/2023,Fremantle Hospital,cylinder_g,2
+1/04/2024,Fremantle Hospital,cylinder_d,1
+1/05/2024,Fremantle Hospital,cylinder_g,2
+1/09/2024,Fremantle Hospital,cylinder_g,2
+1/10/2024,Fremantle Hospital,cylinder_d,2
+1/10/2024,Fremantle Hospital,cylinder_d,2
+1/12/2024,Fremantle Hospital,cylinder_d,1
+1/01/2017,Kalamunda District Community Hospital,cylinder_e,2
+1/07/2017,Kalamunda District Community Hospital,cylinder_e,2
+1/09/2017,Kalamunda District Community Hospital,cylinder_e,6
+1/01/2018,Kalamunda District Community Hospital,cylinder_e,2
+1/10/2018,Kalamunda District Community Hospital,cylinder_e,1
+1/04/2019,King Edward Memorial Hospital For Women,cylinder_g,8
+1/05/2019,King Edward Memorial Hospital For Women,cylinder_g,8
+1/06/2019,King Edward Memorial Hospital For Women,cylinder_g,8
+1/08/2019,King Edward Memorial Hospital For Women,cylinder_g,24
+1/11/2019,King Edward Memorial Hospital For Women,cylinder_g,8
+1/01/2020,King Edward Memorial Hospital For Women,cylinder_g,8
+1/02/2020,King Edward Memorial Hospital For Women,cylinder_g,8
+1/04/2020,King Edward Memorial Hospital For Women,cylinder_g,8
+1/06/2020,King Edward Memorial Hospital For Women,cylinder_g,8
+1/07/2020,King Edward Memorial Hospital For Women,cylinder_g,8
+1/09/2020,King Edward Memorial Hospital For Women,cylinder_g,8
+1/10/2020,King Edward Memorial Hospital For Women,cylinder_g,8
+1/12/2020,King Edward Memorial Hospital For Women,cylinder_g,8
+1/01/2021,King Edward Memorial Hospital For Women,cylinder_g,8
+1/03/2021,King Edward Memorial Hospital For Women,cylinder_g,8
+1/04/2021,King Edward Memorial Hospital For Women,cylinder_g,8
+1/06/2021,King Edward Memorial Hospital For Women,cylinder_g,8
+1/10/2021,King Edward Memorial Hospital For Women,cylinder_g,6
+1/11/2021,King Edward Memorial Hospital For Women,cylinder_g,8
+1/01/2022,King Edward Memorial Hospital For Women,cylinder_g,8
+1/04/2022,King Edward Memorial Hospital For Women,cylinder_g,8
+1/07/2022,King Edward Memorial Hospital For Women,cylinder_g,8
+1/09/2022,King Edward Memorial Hospital For Women,cylinder_g,8
+1/11/2022,King Edward Memorial Hospital For Women,cylinder_g,8
+1/01/2023,King Edward Memorial Hospital For Women,cylinder_g,8
+1/03/2023,King Edward Memorial Hospital For Women,cylinder_g,8
+1/05/2023,King Edward Memorial Hospital For Women,cylinder_g,8
+1/07/2023,King Edward Memorial Hospital For Women,cylinder_g,8
+1/09/2023,King Edward Memorial Hospital For Women,cylinder_g,8
+1/11/2023,King Edward Memorial Hospital For Women,cylinder_g,8
+1/01/2024,King Edward Memorial Hospital For Women,cylinder_g,8
+1/03/2024,King Edward Memorial Hospital For Women,cylinder_g,8
+1/04/2024,King Edward Memorial Hospital For Women,cylinder_g,8
+1/06/2024,King Edward Memorial Hospital For Women,cylinder_g,8
+1/07/2024,King Edward Memorial Hospital For Women,cylinder_g,8
+1/09/2024,King Edward Memorial Hospital For Women,cylinder_g,8
+1/11/2024,King Edward Memorial Hospital For Women,cylinder_g,8
+1/01/2017,Osborne Park Hospital,cylinder_g,4
+1/02/2017,Osborne Park Hospital,cylinder_g,4
+1/03/2017,Osborne Park Hospital,cylinder_g,4
+1/04/2017,Osborne Park Hospital,cylinder_g,4
+1/05/2017,Osborne Park Hospital,cylinder_g,4
+1/06/2017,Osborne Park Hospital,cylinder_g,4
+1/07/2017,Osborne Park Hospital,cylinder_g,4
+1/08/2017,Osborne Park Hospital,cylinder_g,4
+1/09/2017,Osborne Park Hospital,cylinder_g,4
+1/10/2017,Osborne Park Hospital,cylinder_g,4
+1/11/2017,Osborne Park Hospital,cylinder_g,4
+1/01/2018,Osborne Park Hospital,cylinder_g,4
+1/03/2018,Osborne Park Hospital,cylinder_g,4
+1/05/2018,Osborne Park Hospital,cylinder_g,4
+1/07/2018,Osborne Park Hospital,cylinder_c,1
+1/10/2018,Osborne Park Hospital,cylinder_g,4
+1/01/2019,Osborne Park Hospital,cylinder_g,8
+1/03/2019,Osborne Park Hospital,cylinder_g,4
+1/04/2019,Osborne Park Hospital,cylinder_g,1
+1/06/2019,Osborne Park Hospital,cylinder_g,3
+1/08/2019,Osborne Park Hospital,cylinder_g,4
+1/10/2019,Osborne Park Hospital,cylinder_c,2
+1/10/2019,Osborne Park Hospital,cylinder_g,4
+1/12/2019,Osborne Park Hospital,cylinder_g,4
+1/02/2020,Osborne Park Hospital,cylinder_c,2
+1/02/2020,Osborne Park Hospital,cylinder_g,4
+1/04/2020,Osborne Park Hospital,cylinder_g,4
+1/06/2020,Osborne Park Hospital,cylinder_g,4
+1/09/2020,Osborne Park Hospital,cylinder_g,4
+1/12/2020,Osborne Park Hospital,cylinder_g,4
+1/03/2021,Osborne Park Hospital,cylinder_g,4
+1/05/2021,Osborne Park Hospital,cylinder_g,4
+1/08/2021,Osborne Park Hospital,cylinder_c,1
+1/08/2021,Osborne Park Hospital,cylinder_g,4
+1/10/2021,Osborne Park Hospital,cylinder_g,4
+1/11/2021,Osborne Park Hospital,cylinder_g,4
+1/12/2021,Osborne Park Hospital,cylinder_g,2
+1/02/2022,Osborne Park Hospital,cylinder_c,4
+1/02/2022,Osborne Park Hospital,cylinder_g,4
+1/04/2022,Osborne Park Hospital,cylinder_g,4
+1/06/2022,Osborne Park Hospital,cylinder_g,2
+1/08/2022,Osborne Park Hospital,cylinder_c,1
+1/09/2022,Osborne Park Hospital,cylinder_g,4
+1/10/2022,Osborne Park Hospital,cylinder_g,4
+1/11/2022,Osborne Park Hospital,cylinder_g,4
+1/12/2022,Osborne Park Hospital,cylinder_g,4
+1/01/2023,Osborne Park Hospital,cylinder_g,4
+1/02/2023,Osborne Park Hospital,cylinder_g,4
+1/04/2023,Osborne Park Hospital,cylinder_g,4
+1/06/2023,Osborne Park Hospital,cylinder_g,4
+1/08/2023,Osborne Park Hospital,cylinder_g,8
+1/09/2023,Osborne Park Hospital,cylinder_d,2
+1/10/2023,Osborne Park Hospital,cylinder_g,4
+1/11/2023,Osborne Park Hospital,cylinder_c,2
+1/12/2023,Osborne Park Hospital,cylinder_g,5
+1/02/2024,Osborne Park Hospital,cylinder_g,4
+1/03/2024,Osborne Park Hospital,cylinder_g,4
+1/04/2024,Osborne Park Hospital,cylinder_c,2
+1/04/2024,Osborne Park Hospital,cylinder_g,1
+1/05/2024,Osborne Park Hospital,cylinder_c,3
+1/06/2024,Osborne Park Hospital,cylinder_d,4
+1/06/2024,Osborne Park Hospital,cylinder_g,4
+1/10/2024,Osborne Park Hospital,cylinder_g,3
+1/10/2024,Osborne Park Hospital,cylinder_g,3
+1/12/2024,Osborne Park Hospital,cylinder_d,6
+1/05/2017,Perth Children's Hospital - Pack Store,cylinder_f8,4
+1/07/2017,Perth Children's Hospital - Pack Store,cylinder_g,2
+1/08/2017,Perth Children's Hospital - Pack Store,cylinder_f8,2
+1/04/2021,Perth Children's Hospital - Pack Store,cylinder_f8,2
+1/04/2022,Perth Children's Hospital - Pack Store,cylinder_f8,2
+1/07/2022,Perth Children's Hospital - Pack Store,cylinder_f8,1
+1/05/2018,Perth Children's Hospital - Theatre,cylinder_c,1
+1/06/2018,Perth Children's Hospital - Theatre,cylinder_c,2
+1/07/2018,Perth Children's Hospital - Pack Store,cylinder_f8,2
+1/10/2018,Perth Children's Hospital - Pack Store,cylinder_f8,2
+1/11/2018,Perth Children's Hospital - Theatre,cylinder_c,1
+1/03/2019,Perth Children's Hospital - Pack Store,cylinder_f8,2
+1/07/2019,Perth Children's Hospital - Pack Store,cylinder_f8,2
+1/08/2019,Perth Children's Hospital - Theatre,cylinder_c,2
+1/12/2019,Perth Children's Hospital - Pack Store,cylinder_f8,2
+1/01/2020,Perth Children's Hospital - Pack Store,cylinder_d,3
+1/07/2020,Perth Children's Hospital - Theatre,cylinder_c,1
+1/09/2020,Perth Children's Hospital - Pack Store,cylinder_f8,2
+1/12/2020,Perth Children's Hospital - Pack Store,cylinder_f8,2
+1/09/2021,Perth Children's Hospital - Theatre,cylinder_c,2
+1/01/2022,Perth Children's Hospital - Theatre,cylinder_c,2
+1/05/2023,Perth Children's Hospital - Pack Store,cylinder_f8,1
+1/08/2023,Perth Children's Hospital - Pack Store,cylinder_f8,1
+1/11/2023,Perth Children's Hospital - Pack Store,cylinder_f8,1
+1/03/2024,Perth Children's Hospital - Pack Store,cylinder_f8,1
+1/07/2024,Perth Children's Hospital - Pack Store,cylinder_f8,1
+1/10/2024,Perth Children's Hospital - Pack Store,cylinder_f8,1
+1/10/2024,Perth Children's Hospital - Pack Store,cylinder_f8,1
+1/01/2017,Rockingham General Hospital,cylinder_f8,1
+1/04/2017,Rockingham General Hospital,cylinder_f8,1
+1/07/2017,Rockingham General Hospital,cylinder_f8,1
+1/11/2017,Rockingham General Hospital,cylinder_f8,1
+1/01/2018,Rockingham General Hospital,cylinder_c,4
+1/03/2018,Rockingham General Hospital,cylinder_f8,1
+1/06/2018,Rockingham General Hospital,cylinder_f8,1
+1/09/2018,Rockingham General Hospital,cylinder_f8,1
+1/12/2018,Rockingham General Hospital,cylinder_f8,1
+1/04/2019,Rockingham General Hospital,cylinder_f8,1
+1/07/2019,Rockingham General Hospital,cylinder_f8,1
+1/08/2019,Rockingham General Hospital,cylinder_f8,1
+1/09/2019,Rockingham General Hospital,cylinder_c,1
+1/11/2019,Rockingham General Hospital,cylinder_f8,1
+1/12/2019,Rockingham General Hospital,cylinder_c,1
+1/12/2019,Rockingham General Hospital,cylinder_f8,2
+1/03/2020,Rockingham General Hospital,cylinder_f8,1
+1/07/2020,Rockingham General Hospital,cylinder_c,2
+1/08/2020,Rockingham General Hospital,cylinder_c,1
+1/08/2020,Rockingham General Hospital,cylinder_f8,1
+1/10/2020,Rockingham General Hospital,cylinder_c,1
+1/11/2020,Rockingham General Hospital,cylinder_c,2
+1/11/2020,Rockingham General Hospital,cylinder_f8,1
+1/02/2021,Rockingham General Hospital,cylinder_f8,1
+1/03/2021,Rockingham General Hospital,cylinder_f8,1
+1/04/2021,Rockingham General Hospital,cylinder_c,1
+1/04/2021,Rockingham General Hospital,cylinder_f8,1
+1/06/2021,Rockingham General Hospital,cylinder_f8,1
+1/07/2021,Rockingham General Hospital,cylinder_f8,1
+1/08/2021,Rockingham General Hospital,cylinder_c,1
+1/09/2021,Rockingham General Hospital,cylinder_f8,1
+1/10/2021,Rockingham General Hospital,cylinder_c,1
+1/10/2021,Rockingham General Hospital,cylinder_f8,1
+1/12/2021,Rockingham General Hospital,cylinder_f8,1
+1/01/2022,Rockingham General Hospital,cylinder_c,1
+1/03/2022,Rockingham General Hospital,cylinder_c,3
+1/03/2022,Rockingham General Hospital,cylinder_d,1
+1/03/2022,Rockingham General Hospital,cylinder_e,1
+1/05/2022,Rockingham General Hospital,cylinder_c,1
+1/06/2022,Rockingham General Hospital,cylinder_f8,1
+1/07/2022,Rockingham General Hospital,cylinder_c,3
+1/08/2022,Rockingham General Hospital,cylinder_c,1
+1/08/2022,Rockingham General Hospital,cylinder_f8,1
+1/09/2022,Rockingham General Hospital,cylinder_c,1
+1/12/2022,Rockingham General Hospital,cylinder_f8,1
+1/01/2023,Rockingham General Hospital,cylinder_c,2
+1/03/2023,Rockingham General Hospital,cylinder_c,4
+1/05/2023,Rockingham General Hospital,cylinder_c,1
+1/05/2023,Rockingham General Hospital,cylinder_f8,1
+1/06/2023,Rockingham General Hospital,cylinder_c,1
+1/07/2023,Rockingham General Hospital,cylinder_c,1
+1/09/2023,Rockingham General Hospital,cylinder_c,1
+1/10/2023,Rockingham General Hospital,cylinder_f8,1
+1/12/2023,Rockingham General Hospital,cylinder_c,1
+1/01/2024,Rockingham General Hospital,cylinder_c,1
+1/02/2024,Rockingham General Hospital,cylinder_f8,1
+1/03/2024,Rockingham General Hospital,cylinder_c,2
+1/05/2024,Rockingham General Hospital,cylinder_f8,1
+1/06/2024,Rockingham General Hospital,cylinder_c,2
+1/06/2024,Rockingham General Hospital,cylinder_f8,1
+1/08/2024,Rockingham General Hospital,cylinder_f8,1
+1/12/2024,Rockingham General Hospital,cylinder_f8,1
+1/12/2024,Rockingham General Hospital,cylinder_c,6
+1/03/2017,Royal Perth Hospital - Main Store,cylinder_f8,1
+1/08/2017,Royal Perth Hospital - Main Store,cylinder_f8,1
+1/02/2018,Royal Perth Hospital - Main Store,cylinder_f8,1
+1/05/2018,Royal Perth Hospital - Main Store,cylinder_f8,1
+1/10/2018,Royal Perth Hospital - Main Store,cylinder_f8,1
+1/11/2018,Royal Perth Hospital - Main Store,cylinder_f8,1
+1/12/2018,Royal Perth Hospital - Main Store,cylinder_f8,1
+1/04/2019,Royal Perth Hospital - Main Store,cylinder_f8,2
+1/05/2019,Royal Perth Hospital - Main Store,cylinder_f8,1
+1/11/2019,Royal Perth Hospital - Main Store,cylinder_f8,1
+1/09/2020,Royal Perth Hospital - Main Store,cylinder_f8,1
+1/11/2020,Royal Perth Hospital - Main Store,cylinder_f8,1
+1/04/2021,Royal Perth Hospital - Main Store,cylinder_f8,1
+1/06/2021,Royal Perth Hospital - Main Store,cylinder_f8,1
+1/01/2022,Royal Perth Hospital - Main Store,cylinder_f8,1
+1/11/2022,Royal Perth Hospital - Main Store,cylinder_f8,1
+1/10/2023,Royal Perth Hospital - Main Store,cylinder_f8,1
+1/02/2024,Royal Perth Hospital - Main Store,cylinder_g,1
+1/03/2017,Royal Perth Hospital - Theatres,cylinder_c,1
+1/05/2017,Royal Perth Hospital - Theatres,cylinder_c,1
+1/07/2017,Royal Perth Hospital - Theatres,cylinder_c,2
+1/12/2017,Royal Perth Hospital - Theatres,cylinder_c,1
+1/02/2018,Royal Perth Hospital - Theatres,cylinder_c,1
+1/06/2018,Royal Perth Hospital - Theatres,cylinder_c,1
+1/10/2018,Royal Perth Hospital - Theatres,cylinder_c,1
+1/02/2019,Royal Perth Hospital - Theatres,cylinder_c,1
+1/03/2019,Royal Perth Hospital - Theatres,cylinder_c,2
+1/07/2019,Royal Perth Hospital - Theatres,cylinder_c,1
+1/11/2019,Royal Perth Hospital - Theatres,cylinder_c,1
+1/12/2019,Royal Perth Hospital - Theatres,cylinder_c,1
+1/06/2020,Royal Perth Hospital - Theatres,cylinder_c,1
+1/05/2021,Royal Perth Hospital - Theatres,cylinder_c,3
+1/05/2021,Royal Perth Hospital - Theatres,cylinder_d,3
+1/02/2022,Royal Perth Hospital - Theatres,cylinder_c,1
+1/06/2022,Royal Perth Hospital - Theatres,cylinder_d,1
+1/05/2023,Royal Perth Hospital - Theatres,cylinder_c,1
+1/07/2023,Royal Perth Hospital - Theatres,cylinder_d,1
+1/03/2024,Royal Perth Hospital - Theatres,cylinder_c,2
+1/04/2024,Royal Perth Hospital - Theatres,cylinder_e,1
+1/06/2024,Royal Perth Hospital - Theatres,cylinder_c,13
+1/09/2024,Royal Perth Hospital - Theatres,cylinder_c,6
+1/10/2024,Royal Perth Hospital - Theatres,cylinder_d,1
+1/10/2024,Royal Perth Hospital - Theatres,cylinder_d,1
+1/11/2024,Royal Perth Hospital - Theatres,cylinder_c,2
+1/12/2024,Royal Perth Hospital - Theatres,cylinder_c,4
+1/12/2024,Royal Perth Hospital - Theatres,cylinder_d,1
+1/01/2017,Sir Charles Gairdner Hospital,cylinder_c,1
+1/03/2017,Sir Charles Gairdner Hospital,cylinder_c,1
+1/03/2017,Sir Charles Gairdner Hospital,cylinder_d,2
+1/04/2017,Sir Charles Gairdner Hospital,cylinder_d,1
+1/05/2017,Sir Charles Gairdner Hospital,cylinder_c,1
+1/05/2017,Sir Charles Gairdner Hospital,cylinder_d,2
+1/06/2017,Sir Charles Gairdner Hospital,cylinder_d,1
+1/09/2017,Sir Charles Gairdner Hospital,cylinder_d,1
+1/10/2017,Sir Charles Gairdner Hospital,cylinder_d,2
+1/11/2017,Sir Charles Gairdner Hospital,cylinder_d,1
+1/01/2018,Sir Charles Gairdner Hospital,cylinder_d,2
+1/06/2018,Sir Charles Gairdner Hospital,cylinder_d,3
+1/09/2018,Sir Charles Gairdner Hospital,cylinder_d,2
+1/12/2018,Sir Charles Gairdner Hospital,cylinder_d,3
+1/02/2019,Sir Charles Gairdner Hospital,cylinder_c,1
+1/02/2019,Sir Charles Gairdner Hospital,cylinder_d,1
+1/07/2019,Sir Charles Gairdner Hospital,cylinder_c,1
+1/01/2020,Sir Charles Gairdner Hospital,cylinder_d,1
+1/04/2020,Sir Charles Gairdner Hospital,cylinder_d,1
+1/07/2020,Sir Charles Gairdner Hospital,cylinder_d,1
+1/12/2020,Sir Charles Gairdner Hospital,cylinder_d,2
+1/08/2021,Sir Charles Gairdner Hospital,cylinder_d,1
+1/11/2021,Sir Charles Gairdner Hospital,cylinder_c,1
+1/01/2022,Sir Charles Gairdner Hospital,cylinder_d,1
+1/03/2022,Sir Charles Gairdner Hospital,cylinder_d,3
+1/09/2022,Sir Charles Gairdner Hospital,cylinder_d,1
+1/11/2022,Sir Charles Gairdner Hospital,cylinder_d,1
+1/12/2022,Sir Charles Gairdner Hospital,cylinder_c,1
+1/12/2022,Sir Charles Gairdner Hospital,cylinder_d,1
+1/01/2023,Sir Charles Gairdner Hospital,cylinder_c,1
+1/02/2023,Sir Charles Gairdner Hospital,cylinder_d,1
+1/05/2023,Sir Charles Gairdner Hospital,cylinder_d,1
+1/06/2023,Sir Charles Gairdner Hospital,cylinder_c,1
+1/06/2023,Sir Charles Gairdner Hospital,cylinder_d,1
+1/07/2023,Sir Charles Gairdner Hospital,cylinder_c,1
+1/12/2023,Sir Charles Gairdner Hospital,cylinder_c,2
+1/01/2024,Sir Charles Gairdner Hospital,cylinder_d,1
+1/04/2024,Sir Charles Gairdner Hospital,cylinder_d,2
+1/04/2024,Sir Charles Gairdner Hospital,cylinder_c,1
+1/05/2024,Sir Charles Gairdner Hospital,cylinder_d,1
+1/06/2024,Sir Charles Gairdner Hospital,cylinder_c,1
+1/06/2024,Sir Charles Gairdner Hospital,cylinder_d,1
+1/10/2024,Sir Charles Gairdner Hospital,cylinder_d,1
+1/10/2024,Sir Charles Gairdner Hospital,cylinder_d,1
+1/12/2024,Sir Charles Gairdner Hospital,cylinder_c,1
+1/01/2017,South Perth Hospital,cylinder_g,1
+1/02/2017,South Perth Hospital,cylinder_g,1
+1/03/2017,South Perth Hospital,cylinder_g,1
+1/05/2017,South Perth Hospital,cylinder_g,1
+1/06/2017,South Perth Hospital,cylinder_g,1
+1/08/2017,South Perth Hospital,cylinder_g,3
+1/01/2018,South Perth Hospital,cylinder_g,1
+1/03/2018,South Perth Hospital,cylinder_g,1
+1/05/2018,South Perth Hospital,cylinder_g,1
+1/07/2018,South Perth Hospital,cylinder_g,1
+1/09/2018,South Perth Hospital,cylinder_g,1
+1/10/2018,South Perth Hospital,cylinder_g,1
+1/12/2018,South Perth Hospital,cylinder_g,1
+1/02/2019,South Perth Hospital,cylinder_g,1
+1/05/2019,South Perth Hospital,cylinder_g,1
+1/07/2019,South Perth Hospital,cylinder_g,1
+1/11/2019,South Perth Hospital,cylinder_g,1
+1/02/2020,South Perth Hospital,cylinder_g,1
+1/03/2020,South Perth Hospital,cylinder_g,1
+1/06/2020,South Perth Hospital,cylinder_g,1
+1/07/2020,South Perth Hospital,cylinder_g,1
+1/09/2020,South Perth Hospital,cylinder_g,2
+1/11/2020,South Perth Hospital,cylinder_g,1
+1/12/2020,South Perth Hospital,cylinder_g,1
+1/03/2021,South Perth Hospital,cylinder_g,1
+1/07/2021,South Perth Hospital,cylinder_g,1
+1/08/2021,South Perth Hospital,cylinder_g,1
+1/09/2021,South Perth Hospital,cylinder_g,3
+1/11/2021,South Perth Hospital,cylinder_g,3
+1/01/2022,South Perth Hospital,cylinder_g,1
+1/03/2022,South Perth Hospital,cylinder_e,2
+1/03/2022,South Perth Hospital,cylinder_g,2
+1/05/2022,South Perth Hospital,cylinder_g,2
+1/07/2022,South Perth Hospital,cylinder_g,1
+1/11/2022,South Perth Hospital,cylinder_g,3
+1/02/2023,South Perth Hospital,cylinder_g,2
+1/03/2023,South Perth Hospital,cylinder_g,1
+1/05/2023,South Perth Hospital,cylinder_g,3
+1/08/2023,South Perth Hospital,cylinder_g,1
+1/09/2023,South Perth Hospital,cylinder_g,1
+1/11/2023,South Perth Hospital,cylinder_g,1
+1/01/2024,South Perth Hospital,cylinder_g,1
+1/04/2024,South Perth Hospital,cylinder_g,1
+1/07/2024,South Perth Hospital,cylinder_g,1
+1/09/2024,South Perth Hospital,cylinder_g,1
+1/12/2024,South Perth Hospital,cylinder_g,1
+1/03/2017,UWA - OHCWA,cylinder_d,3
+1/09/2017,UWA - OHCWA,cylinder_d,2
+1/11/2017,UWA - OHCWA,cylinder_d,5
+1/09/2018,UWA - OHCWA,cylinder_d,2
+1/10/2018,UWA - OHCWA,cylinder_d,2
+1/11/2018,UWA - OHCWA,cylinder_d,4
+1/11/2018,UWA - OHCWA,cylinder_g,4
+1/01/2019,UWA - OHCWA,cylinder_g,2
+1/10/2019,UWA - OHCWA,cylinder_d,4
+1/03/2022,UWA - OHCWA,cylinder_d,4
+1/06/2024,UWA - OHCWA,cylinder_d,5

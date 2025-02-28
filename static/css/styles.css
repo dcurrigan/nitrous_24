@@ -1,0 +1,320 @@
+.panel-title {
+    font-size: 14px;
+    font-weight:600;
+}
+
+
+#hospital-data {
+    padding-bottom: 0%;
+}
+
+
+
+/* Auto Complete Styles */
+* { box-sizing: border-box; }
+body {
+  font: 16px Arial;
+}
+.autocomplete {
+  /*the container must be positioned relative:*/
+  position: relative;
+  display: inline-block;
+}
+input {
+  border: 1px solid transparent;
+  background-color: #f1f1f1;
+  padding: 10px;
+  font-size: 16px;
+}
+input[type=text] {
+  background-color: #f1f1f1;
+  width: 100%;
+}
+input[type=submit] {
+  background-color: DodgerBlue;
+  color: #fff;
+}
+.autocomplete-items {
+  position: absolute;
+  border: 1px solid #d4d4d4;
+  border-bottom: none;
+  border-top: none;
+  z-index: 99;
+  /*position the autocomplete items to be the same width as the container:*/
+  top: 100%;
+  left: 0;
+  right: 0;
+}
+.autocomplete-items div {
+  padding: 10px;
+  cursor: pointer;
+  background-color: #fff;
+  border-bottom: 1px solid #d4d4d4;
+}
+.autocomplete-items div:hover {
+  /*when hovering an item:*/
+  background-color: #e9e9e9;
+}
+.autocomplete-active {
+  /*when navigating through the items using the arrow keys:*/
+  background-color: DodgerBlue !important;
+  color: #ffffff;
+}
+
+/* Map Styles */
+/* #map {
+  position: absolute;
+  border: 1px solid black;
+  border-radius: 8px;
+  height: 400px;  /* or as desired */
+  /* width: 100%;   */
+/* } */ */
+
+#map {
+  min-height: 50vh;
+}
+
+
+
+
+/* Form Styyles */
+
+hr {
+  display: block;
+  margin-top: 1.5em;
+  margin-bottom: 1.0em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+}  
+
+legend {
+  padding-bottom: 10px;
+  text-decoration: none;
+  border: none;
+  font-weight: 600;
+}
+
+.form-check-label {
+  font-weight: 100;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+
+.header-label {
+  line-height: 1.2;
+  padding-bottom: 10px;
+  font-weight: 600;
+}
+
+.btn {
+  margin-bottom: 50px;
+}
+
+
+select {
+
+  /* styling */
+  background-color: white;
+  border: thin solid gray;
+  border-radius: 4px;
+  display: inline-block;
+  font: inherit;
+  line-height: 1.5em;
+  padding: 0.5em 3.5em 0.5em 1em;
+
+  /* reset */
+
+  margin: 0;      
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+/* arrows */
+
+select.classic {
+  background-image:
+    linear-gradient(45deg, transparent 50%, lightgray 50%),
+    linear-gradient(135deg, lightgray 50%, transparent 50%),
+    linear-gradient(to right, gray, gray);
+  background-position:
+    calc(100% - 20px) calc(1em + 2px),
+    calc(100% - 15px) calc(1em + 2px),
+    100% 0;
+  background-size:
+    5px 5px,
+    5px 5px,
+    2.5em 2.5em;
+  background-repeat: no-repeat;
+}
+
+select.classic:focus {
+  background-image:
+    linear-gradient(45deg, white 50%, transparent 50%),
+    linear-gradient(135deg, transparent 50%, white 50%),
+    linear-gradient(to right, gray, gray);
+  background-position:
+    calc(100% - 15px) 1em,
+    calc(100% - 20px) 1em,
+    100% 0;
+  background-size:
+    5px 5px,
+    5px 5px,
+    2.5em 2.5em;
+  background-repeat: no-repeat;
+  border-color: grey;
+  outline: 0;
+}
+
+
+/* TABLE STYLES */
+.table-wrapper-purchase {
+  width: 100%;
+  margin: 0px auto;
+  background: #fff;
+  padding: 20px;	
+  box-shadow: 0 1px 1px rgba(0,0,0,.05);
+}
+
+.table-wrapper-manifold {
+  width: 800px;
+  margin: 0px auto;
+  background: #fff;
+  padding: 20px;	
+  box-shadow: 0 1px 1px rgba(0,0,0,.05);
+}
+
+
+.table-title {
+  margin: 0 0 10px;
+  height: 40px;
+}
+.table-title h2 {
+  margin: 6px 0 0;
+  font-size: 22px;
+}
+.table-title .add-new {
+  float: right;
+  height: 30px;
+  font-weight: bold;
+  font-size: 12px;
+  text-shadow: none;
+  min-width: 100px;
+  border-radius: 50px;
+  line-height: 13px;
+}
+.table-title .add-new i {
+  margin-right: 4px;
+}
+table.table {
+  table-layout: fixed;
+}
+
+.table table-bordered {
+  margin-top: 0px !important;
+  padding-top: 0px !important;
+}
+
+
+table.table tr th, table.table tr td {
+  border-color: #e9e9e9;
+}
+table.table th i {
+  font-size: 13px;
+  margin: 0 5px;
+  cursor: pointer;
+}
+table.table th:last-child {
+  width: 100px;
+}
+table.table td a {
+  cursor: pointer;
+  display: inline-block;
+  margin: 0 5px;
+  min-width: 24px;
+}    
+table.table td a.add {
+  color: #27C46B;
+}
+table.table td a.edit {
+  color: DodgerBlue;
+}
+table.table td a.delete {
+  color: #c9310fef;
+}
+table.table td i {
+  font-size: 19px;
+}
+table.table td a.add i {
+  font-size: 24px;
+  margin-right: -1px;
+  position: relative;
+  top: 3px;
+}    
+table.table .form-control {
+  height: 32px;
+  line-height: 32px;
+  box-shadow: none;
+  border-radius: 2px;
+}
+table.table .form-control.error {
+  border-color: #f50000;
+}
+table.table td .add {
+  display: none;
+}
+
+.datetimepicker {
+  width: 100%;
+}
+
+.date-cell {
+  width: 100%;
+  height: 100%;
+}
+
+.edit.disabled, .delete.disabled {
+  pointer-events: none;
+}
+
+#success {
+  color: green;
+  font-weight: 600;
+  background-color:#f1f1f1;
+  border-radius: 4px;
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 0px;
+  margin-bottom: 50px;
+  height: 50px;
+  border-color: #d4d4d4 !important;
+  border-style: solid; 
+  border: thin solid;
+  border-radius: 5px !important;
+  padding-top: 15px;
+}
+
+#failure {
+  color: red;
+  font-weight: 600;
+  line-height: 1.2;
+  background-color:#f1f1f1;
+  border-radius: 4px;
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 0px;
+  margin-bottom: 50px;
+  height: 65px;
+  border-color: #d4d4d4 !important;
+  border-style: solid; 
+  border: thin solid;
+  border-radius: 5px !important;
+  padding-top: 15px;
+}
+

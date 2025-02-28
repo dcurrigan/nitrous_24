@@ -1,0 +1,491 @@
+date,name,cylinder_c,cylinder_d,cylinder_e,cylinder_f8,cylinder_f9,cylinder_g,total
+1/01/2017,Armadale-Kelmscott Memorial Hospital,0,0,0,1,0,0,233
+1/01/2017,Bentley Hospital,0,0,2,0,0,0,33.6
+1/01/2017,Fiona Stanley Hospital,0,0,0,2,0,0,466
+1/01/2017,Kalamunda District Community Hospital,0,0,2,0,0,0,33.6
+1/01/2017,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/01/2017,Rockingham General Hospital,0,0,0,1,0,0,233
+1/01/2017,Sir Charles Gairdner Hospital,1,0,0,0,0,0,1.8
+1/01/2017,South Perth Hospital,0,0,0,0,0,1,36.6
+1/04/2017,Armadale-Kelmscott Memorial Hospital,0,0,0,1,0,0,233
+1/04/2017,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/04/2017,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/04/2017,Rockingham General Hospital,0,0,0,1,0,0,233
+1/04/2017,Sir Charles Gairdner Hospital,0,1,0,0,0,0,6.6
+1/07/2017,Armadale-Kelmscott Memorial Hospital,0,0,0,1,0,0,233
+1/07/2017,Bentley Hospital,0,0,2,0,0,0,33.6
+1/07/2017,Fiona Stanley Hospital,0,0,0,2,0,0,466
+1/07/2017,Kalamunda District Community Hospital,0,0,2,0,0,0,33.6
+1/07/2017,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/07/2017,Perth Children's Hospital - Pack Store,0,0,0,0,0,2,73.2
+1/07/2017,Rockingham General Hospital,0,0,0,1,0,0,233
+1/07/2017,Royal Perth Hospital - Theatres,2,0,0,0,0,0,3.5
+1/10/2017,Armadale-Kelmscott Memorial Hospital,0,0,0,1,0,0,233
+1/10/2017,Bentley Hospital,0,0,2,0,0,0,33.6
+1/10/2017,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/10/2017,Sir Charles Gairdner Hospital,0,2,0,0,0,0,13.2
+1/01/2018,Armadale-Kelmscott Memorial Hospital,1,0,0,1,0,0,234.8
+1/01/2018,Kalamunda District Community Hospital,0,0,2,0,0,0,33.6
+1/01/2018,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/01/2018,Rockingham General Hospital,4,0,0,0,0,0,7
+1/01/2018,Sir Charles Gairdner Hospital,0,2,0,0,0,0,13.2
+1/01/2018,South Perth Hospital,0,0,0,0,0,1,36.6
+1/06/2018,Armadale-Kelmscott Memorial Hospital,0,0,0,2,0,0,466
+1/06/2018,Bentley Hospital,0,0,2,0,0,0,33.6
+1/06/2018,Bethesda Hospital,0,0,0,0,0,2,73.2
+1/06/2018,Fremantle Hospital,0,0,0,0,0,2,73.2
+1/06/2018,Perth Children's Hospital - Theatre,2,0,0,0,0,0,3.5
+1/06/2018,Rockingham General Hospital,0,0,0,1,0,0,233
+1/06/2018,Royal Perth Hospital - Theatres,1,0,0,0,0,0,1.8
+1/06/2018,Sir Charles Gairdner Hospital,0,3,0,0,0,0,19.8
+1/08/2018,Armadale-Kelmscott Memorial Hospital,0,0,0,1,0,0,233
+1/08/2018,Bentley Hospital,0,0,2,0,0,0,33.6
+1/08/2018,Fiona Stanley Hospital,0,0,0,2,0,0,466
+1/10/2018,Armadale-Kelmscott Memorial Hospital,0,0,0,1,0,0,233
+1/10/2018,Bentley Hospital,0,0,2,0,0,6,253.2
+1/10/2018,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/10/2018,Fremantle Hospital,1,1,0,0,0,2,81.6
+1/10/2018,Kalamunda District Community Hospital,0,0,1,0,0,0,16.8
+1/10/2018,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/10/2018,Perth Children's Hospital - Pack Store,0,0,0,2,0,0,466
+1/10/2018,Royal Perth Hospital - Main Store,0,0,0,1,0,0,233
+1/10/2018,Royal Perth Hospital - Theatres,1,0,0,0,0,0,1.8
+1/10/2018,South Perth Hospital,0,0,0,0,0,1,36.6
+1/10/2018,UWA - OHCWA,0,2,0,0,0,0,13.2
+1/12/2018,Armadale-Kelmscott Memorial Hospital,0,0,0,1,0,0,233
+1/12/2018,Rockingham General Hospital,0,0,0,1,0,0,233
+1/12/2018,Royal Perth Hospital - Main Store,0,0,0,1,0,0,233
+1/12/2018,Sir Charles Gairdner Hospital,0,3,0,0,0,0,19.8
+1/12/2018,South Perth Hospital,0,0,0,0,0,1,36.6
+1/02/2019,Armadale-Kelmscott Memorial Hospital,0,0,0,1,0,0,233
+1/02/2019,Fremantle Hospital,1,0,0,0,0,2,75
+1/02/2019,Royal Perth Hospital - Theatres,1,0,0,0,0,0,1.8
+1/02/2019,Sir Charles Gairdner Hospital,1,1,0,0,0,0,8.4
+1/02/2019,South Perth Hospital,0,0,0,0,0,1,36.6
+1/07/2019,Armadale-Kelmscott Memorial Hospital,0,0,0,1,0,0,233
+1/07/2019,Bentley Hospital,0,0,0,0,0,2,73.2
+1/07/2019,Perth Children's Hospital - Pack Store,0,0,0,2,0,0,466
+1/07/2019,Rockingham General Hospital,0,0,0,1,0,0,233
+1/07/2019,Royal Perth Hospital - Theatres,1,0,0,0,0,0,1.8
+1/07/2019,Sir Charles Gairdner Hospital,1,0,0,0,0,0,1.8
+1/07/2019,South Perth Hospital,0,0,0,0,0,1,36.6
+1/08/2019,Armadale-Kelmscott Memorial Hospital,1,0,0,0,0,0,1.8
+1/08/2019,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/08/2019,King Edward Memorial Hospital For Women,0,0,0,0,0,24,878.4
+1/08/2019,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/08/2019,Perth Children's Hospital - Theatre,2,0,0,0,0,0,3.5
+1/08/2019,Rockingham General Hospital,0,0,0,1,0,0,233
+1/10/2019,Armadale-Kelmscott Memorial Hospital,0,0,0,2,0,0,466
+1/10/2019,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/10/2019,Osborne Park Hospital,2,0,0,0,0,4,149.9
+1/10/2019,UWA - OHCWA,0,4,0,0,0,0,26.4
+1/12/2019,Armadale-Kelmscott Memorial Hospital,0,0,0,1,0,0,233
+1/12/2019,Bentley Hospital,0,0,0,0,0,2,73.2
+1/12/2019,Bethesda Hospital,0,0,0,0,0,2,73.2
+1/12/2019,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/12/2019,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/12/2019,Perth Children's Hospital - Pack Store,0,0,0,2,0,0,466
+1/12/2019,Rockingham General Hospital,1,0,0,2,0,0,467.8
+1/12/2019,Royal Perth Hospital - Theatres,1,0,0,0,0,0,1.8
+1/02/2020,Armadale-Kelmscott Memorial Hospital,0,0,0,1,0,0,233
+1/02/2020,Bentley Hospital,0,0,0,0,0,2,73.2
+1/02/2020,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/02/2020,Osborne Park Hospital,2,0,0,0,0,4,149.9
+1/02/2020,South Perth Hospital,0,0,0,0,0,1,36.6
+1/04/2020,Armadale-Kelmscott Memorial Hospital,0,0,0,1,0,0,233
+1/04/2020,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/04/2020,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/04/2020,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/04/2020,Sir Charles Gairdner Hospital,0,1,0,0,0,0,6.6
+1/07/2020,Armadale-Kelmscott Memorial Hospital,0,0,0,1,0,0,233
+1/07/2020,Bentley Hospital,0,0,0,0,0,2,73.2
+1/07/2020,Fremantle Hospital,0,2,0,0,0,0,13.2
+1/07/2020,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/07/2020,Perth Children's Hospital - Theatre,1,0,0,0,0,0,1.8
+1/07/2020,Rockingham General Hospital,2,0,0,0,0,0,3.5
+1/07/2020,Sir Charles Gairdner Hospital,0,1,0,0,0,0,6.6
+1/07/2020,South Perth Hospital,0,0,0,0,0,1,36.6
+1/10/2020,Armadale-Kelmscott Memorial Hospital,0,0,0,1,0,0,233
+1/10/2020,Bethesda Hospital,0,0,0,0,0,3,109.8
+1/10/2020,Fremantle Hospital,0,0,0,0,0,2,73.2
+1/10/2020,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/10/2020,Rockingham General Hospital,1,0,0,0,0,0,1.8
+1/12/2020,Armadale-Kelmscott Memorial Hospital,0,0,0,1,0,0,233
+1/12/2020,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/12/2020,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/12/2020,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/12/2020,Perth Children's Hospital - Pack Store,0,0,0,2,0,0,466
+1/12/2020,Sir Charles Gairdner Hospital,0,2,0,0,0,0,13.2
+1/12/2020,South Perth Hospital,0,0,0,0,0,1,36.6
+1/04/2021,Armadale-Kelmscott Memorial Hospital,0,0,0,1,0,0,233
+1/04/2021,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/04/2021,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/04/2021,Perth Children's Hospital - Pack Store,0,0,0,2,0,0,466
+1/04/2021,Rockingham General Hospital,1,0,0,1,0,0,234.8
+1/04/2021,Royal Perth Hospital - Main Store,0,0,0,1,0,0,233
+1/07/2021,Armadale-Kelmscott Memorial Hospital,0,0,0,1,0,0,233
+1/07/2021,Bentley Hospital,0,0,0,0,0,4,146.4
+1/07/2021,Rockingham General Hospital,0,0,0,1,0,0,233
+1/07/2021,South Perth Hospital,0,0,0,0,0,1,36.6
+1/11/2021,Armadale-Kelmscott Memorial Hospital,0,0,0,1,0,0,233
+1/11/2021,Fremantle Hospital,0,0,0,0,0,2,73.2
+1/11/2021,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/11/2021,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/11/2021,Sir Charles Gairdner Hospital,1,0,0,0,0,0,1.8
+1/11/2021,South Perth Hospital,0,0,0,0,0,3,109.8
+1/01/2022,Armadale-Kelmscott Memorial Hospital,1,0,0,0,0,0,1.8
+1/01/2022,Bentley Hospital,0,0,0,0,0,2,73.2
+1/01/2022,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/01/2022,Perth Children's Hospital - Theatre,2,0,0,0,0,0,3.5
+1/01/2022,Rockingham General Hospital,1,0,0,0,0,0,1.8
+1/01/2022,Royal Perth Hospital - Main Store,0,0,0,1,0,0,233
+1/01/2022,Sir Charles Gairdner Hospital,0,1,0,0,0,0,6.6
+1/01/2022,South Perth Hospital,0,0,0,0,0,1,36.6
+1/02/2022,Armadale-Kelmscott Memorial Hospital,0,0,0,1,0,0,233
+1/02/2022,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/02/2022,Fremantle Hospital,0,0,0,0,0,2,73.2
+1/02/2022,Osborne Park Hospital,4,0,0,0,0,4,153.4
+1/02/2022,Royal Perth Hospital - Theatres,1,0,0,0,0,0,1.8
+1/04/2022,Armadale-Kelmscott Memorial Hospital,2,0,0,0,0,0,3.5
+1/04/2022,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/04/2022,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/04/2022,Perth Children's Hospital - Pack Store,0,0,0,2,0,0,466
+1/05/2022,Armadale-Kelmscott Memorial Hospital,0,0,0,1,0,0,233
+1/05/2022,Bethesda Hospital,0,0,0,0,0,2,73.2
+1/05/2022,Fremantle Hospital,0,1,0,0,0,2,79.8
+1/05/2022,Rockingham General Hospital,1,0,0,0,0,0,1.8
+1/05/2022,South Perth Hospital,0,0,0,0,0,2,73.2
+1/09/2022,Armadale-Kelmscott Memorial Hospital,0,0,0,1,0,0,233
+1/09/2022,Fremantle Hospital,0,0,0,0,0,2,73.2
+1/09/2022,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/09/2022,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/09/2022,Rockingham General Hospital,1,0,0,0,0,0,1.8
+1/09/2022,Sir Charles Gairdner Hospital,0,1,0,0,0,0,6.6
+1/11/2022,Armadale-Kelmscott Memorial Hospital,2,0,0,1,0,0,236.5
+1/11/2022,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/11/2022,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/11/2022,Royal Perth Hospital - Main Store,0,0,0,1,0,0,233
+1/11/2022,Sir Charles Gairdner Hospital,0,1,0,0,0,0,6.6
+1/11/2022,South Perth Hospital,0,0,0,0,0,3,109.8
+1/12/2022,Armadale-Kelmscott Memorial Hospital,2,0,0,0,0,0,3.5
+1/12/2022,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/12/2022,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/12/2022,Rockingham General Hospital,0,0,0,1,0,0,233
+1/12/2022,Sir Charles Gairdner Hospital,1,1,0,0,0,0,8.4
+1/03/2023,Armadale-Kelmscott Memorial Hospital,0,0,0,2,0,0,466
+1/03/2023,Fremantle Hospital,0,0,0,0,0,2,73.2
+1/03/2023,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/03/2023,Rockingham General Hospital,4,0,0,0,0,0,7
+1/03/2023,South Perth Hospital,0,0,0,0,0,1,36.6
+1/05/2023,Armadale-Kelmscott Memorial Hospital,2,0,0,0,0,0,3.5
+1/05/2023,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/05/2023,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/05/2023,Perth Children's Hospital - Pack Store,0,0,0,1,0,0,233
+1/05/2023,Rockingham General Hospital,1,0,0,1,0,0,234.8
+1/05/2023,Royal Perth Hospital - Theatres,1,0,0,0,0,0,1.8
+1/05/2023,Sir Charles Gairdner Hospital,0,1,0,0,0,0,6.6
+1/05/2023,South Perth Hospital,0,0,0,0,0,3,109.8
+1/06/2023,Armadale-Kelmscott Memorial Hospital,2,0,0,0,0,0,3.5
+1/06/2023,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/06/2023,Rockingham General Hospital,1,0,0,0,0,0,1.8
+1/06/2023,Sir Charles Gairdner Hospital,1,1,0,0,0,0,8.4
+1/07/2023,Armadale-Kelmscott Memorial Hospital,1,0,0,0,0,0,1.8
+1/07/2023,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/07/2023,Fremantle Hospital,0,0,0,0,0,2,73.2
+1/07/2023,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/07/2023,Rockingham General Hospital,1,0,0,0,0,0,1.8
+1/07/2023,Royal Perth Hospital - Theatres,0,1,0,0,0,0,6.6
+1/07/2023,Sir Charles Gairdner Hospital,1,0,0,0,0,0,1.8
+1/08/2023,Armadale-Kelmscott Memorial Hospital,1,0,0,1,0,0,234.8
+1/08/2023,Bentley Hospital,0,0,0,0,0,2,73.2
+1/08/2023,Bethesda Hospital,0,0,0,0,0,3,109.8
+1/08/2023,Osborne Park Hospital,0,0,0,0,0,8,292.8
+1/08/2023,Perth Children's Hospital - Pack Store,0,0,0,1,0,0,233
+1/08/2023,South Perth Hospital,0,0,0,0,0,1,36.6
+1/10/2023,Armadale-Kelmscott Memorial Hospital,1,0,0,0,0,0,1.8
+1/10/2023,Fremantle Hospital,0,0,0,0,0,2,73.2
+1/10/2023,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/10/2023,Rockingham General Hospital,0,0,0,1,0,0,233
+1/10/2023,Royal Perth Hospital - Main Store,0,0,0,1,0,0,233
+1/11/2023,Armadale-Kelmscott Memorial Hospital,2,0,0,1,0,0,236.5
+1/11/2023,Bethesda Hospital,0,0,0,0,0,3,109.8
+1/11/2023,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/11/2023,Osborne Park Hospital,2,0,0,0,0,0,3.5
+1/11/2023,Perth Children's Hospital - Pack Store,0,0,0,1,0,0,233
+1/11/2023,South Perth Hospital,0,0,0,0,0,1,36.6
+1/12/2023,Armadale-Kelmscott Memorial Hospital,1,0,0,0,0,0,1.8
+1/12/2023,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/12/2023,Osborne Park Hospital,0,0,0,0,0,5,183
+1/12/2023,Rockingham General Hospital,1,0,0,0,0,0,1.8
+1/12/2023,Sir Charles Gairdner Hospital,2,0,0,0,0,0,3.5
+1/01/2024,Armadale-Kelmscott Memorial Hospital,0,0,0,1,0,0,233
+1/01/2024,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/01/2024,Rockingham General Hospital,1,0,0,0,0,0,1.8
+1/01/2024,Sir Charles Gairdner Hospital,0,1,0,0,0,0,6.6
+1/01/2024,South Perth Hospital,0,0,0,0,0,1,36.6
+1/05/2024,Armadale-Kelmscott Memorial Hospital,0,0,0,1,0,0,233
+1/05/2024,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/05/2024,Fremantle Hospital,0,0,0,0,0,2,73.2
+1/05/2024,Osborne Park Hospital,3,0,0,0,0,0,5.2
+1/05/2024,Rockingham General Hospital,0,0,0,1,0,0,233
+1/05/2024,Sir Charles Gairdner Hospital,0,1,0,0,0,0,6.6
+1/07/2024,Armadale-Kelmscott Memorial Hospital,2,0,0,1,0,0,236.5
+1/07/2024,Bentley Hospital,0,1,0,0,0,0,6.6
+1/07/2024,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/07/2024,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/07/2024,Perth Children's Hospital - Pack Store,0,0,0,1,0,0,233
+1/07/2024,South Perth Hospital,0,0,0,0,0,1,36.6
+1/09/2024,Armadale-Kelmscott Memorial Hospital,0,2,0,1,0,0,246.2
+1/09/2024,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/09/2024,Fremantle Hospital,0,0,0,0,0,2,73.2
+1/09/2024,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/09/2024,Royal Perth Hospital - Theatres,6,0,0,0,0,0,10.5
+1/09/2024,South Perth Hospital,0,0,0,0,0,1,36.6
+1/10/2024,Armadale-Kelmscott Memorial Hospital,0,0,0,1,0,0,233
+1/10/2024,Bentley Hospital,0,0,0,0,0,2,73.2
+1/10/2024,Fremantle Hospital,0,2,0,0,0,0,13.2
+1/10/2024,Osborne Park Hospital,0,0,0,0,0,3,109.8
+1/10/2024,Perth Children's Hospital - Pack Store,0,0,0,1,0,0,233
+1/10/2024,Royal Perth Hospital - Theatres,0,1,0,0,0,0,6.6
+1/10/2024,Sir Charles Gairdner Hospital,0,1,0,0,0,0,6.6
+1/12/2024,Armadale-Kelmscott Memorial Hospital,1,0,0,1,0,0,234.8
+1/12/2024,Bethesda Hospital,0,0,0,0,0,2,73.2
+1/12/2024,Fiona Stanley Hospital,0,0,0,5,0,0,1165
+1/12/2024,Fremantle Hospital,0,1,0,0,0,0,6.6
+1/12/2024,Osborne Park Hospital,0,6,0,0,0,0,39.6
+1/12/2024,Rockingham General Hospital,6,0,0,1,0,0,243.5
+1/12/2024,Royal Perth Hospital - Theatres,4,1,0,0,0,0,13.6
+1/12/2024,Sir Charles Gairdner Hospital,1,0,0,0,0,0,1.8
+1/12/2024,South Perth Hospital,0,0,0,0,0,1,36.6
+1/03/2017,Bentley Hospital,0,0,4,0,0,0,67.2
+1/03/2017,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/03/2017,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/03/2017,Royal Perth Hospital - Main Store,0,0,0,1,0,0,233
+1/03/2017,Royal Perth Hospital - Theatres,1,0,0,0,0,0,1.8
+1/03/2017,Sir Charles Gairdner Hospital,1,2,0,0,0,0,15
+1/03/2017,South Perth Hospital,0,0,0,0,0,1,36.6
+1/03/2017,UWA - OHCWA,0,3,0,0,0,0,19.8
+1/05/2017,Bentley Hospital,0,0,2,0,0,0,33.6
+1/05/2017,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/05/2017,Perth Children's Hospital - Pack Store,0,0,0,4,0,0,932
+1/05/2017,Royal Perth Hospital - Theatres,1,0,0,0,0,0,1.8
+1/05/2017,Sir Charles Gairdner Hospital,1,2,0,0,0,0,15
+1/05/2017,South Perth Hospital,0,0,0,0,0,1,36.6
+1/09/2017,Bentley Hospital,0,0,2,0,0,0,33.6
+1/09/2017,Fremantle Hospital,0,0,0,0,0,5,183
+1/09/2017,Kalamunda District Community Hospital,0,0,6,0,0,0,100.8
+1/09/2017,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/09/2017,Sir Charles Gairdner Hospital,0,1,0,0,0,0,6.6
+1/09/2017,UWA - OHCWA,0,2,0,0,0,0,13.2
+1/12/2017,Bentley Hospital,0,0,2,0,0,0,33.6
+1/12/2017,Bethesda Hospital,0,0,0,0,0,2,73.2
+1/12/2017,Royal Perth Hospital - Theatres,1,0,0,0,0,0,1.8
+1/02/2018,Bentley Hospital,0,0,3,0,0,0,50.4
+1/02/2018,Bethesda Hospital,0,0,0,0,0,2,73.2
+1/02/2018,Fiona Stanley Hospital,0,0,0,4,0,0,932
+1/02/2018,Fremantle Hospital,1,2,0,0,0,2,88.2
+1/02/2018,Royal Perth Hospital - Main Store,0,0,0,1,0,0,233
+1/02/2018,Royal Perth Hospital - Theatres,1,0,0,0,0,0,1.8
+1/03/2018,Bentley Hospital,0,0,1,0,0,0,16.8
+1/03/2018,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/03/2018,Rockingham General Hospital,0,0,0,1,0,0,233
+1/03/2018,South Perth Hospital,0,0,0,0,0,1,36.6
+1/04/2018,Bentley Hospital,0,0,2,0,0,0,33.6
+1/05/2018,Bentley Hospital,0,0,2,0,0,0,33.6
+1/05/2018,Bethesda Hospital,0,0,0,0,0,1,36.6
+1/05/2018,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/05/2018,Perth Children's Hospital - Theatre,1,0,0,0,0,0,1.8
+1/05/2018,Royal Perth Hospital - Main Store,0,0,0,1,0,0,233
+1/05/2018,South Perth Hospital,0,0,0,0,0,1,36.6
+1/07/2018,Bentley Hospital,0,0,4,0,0,0,67.2
+1/07/2018,Osborne Park Hospital,1,0,0,0,0,0,1.8
+1/07/2018,Perth Children's Hospital - Pack Store,0,0,0,2,0,0,466
+1/07/2018,South Perth Hospital,0,0,0,0,0,1,36.6
+1/09/2018,Bentley Hospital,0,0,4,0,0,0,67.2
+1/09/2018,Bethesda Hospital,0,0,0,0,0,2,73.2
+1/09/2018,Rockingham General Hospital,0,0,0,1,0,0,233
+1/09/2018,Sir Charles Gairdner Hospital,0,2,0,0,0,0,13.2
+1/09/2018,South Perth Hospital,0,0,0,0,0,1,36.6
+1/09/2018,UWA - OHCWA,0,2,0,0,0,0,13.2
+1/01/2019,Bentley Hospital,0,0,0,0,0,2,73.2
+1/01/2019,Bethesda Hospital,0,0,0,0,0,2,73.2
+1/01/2019,Osborne Park Hospital,0,0,0,0,0,8,292.8
+1/01/2019,UWA - OHCWA,0,0,0,0,0,2,73.2
+1/03/2019,Bentley Hospital,0,0,0,0,0,2,73.2
+1/03/2019,Bethesda Hospital,0,0,0,0,0,2,73.2
+1/03/2019,Fiona Stanley Hospital,0,0,0,4,0,0,932
+1/03/2019,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/03/2019,Perth Children's Hospital - Pack Store,0,0,0,2,0,0,466
+1/03/2019,Royal Perth Hospital - Theatres,2,0,0,0,0,0,3.5
+1/06/2019,Bentley Hospital,0,0,0,0,0,2,73.2
+1/06/2019,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/06/2019,Osborne Park Hospital,0,0,0,0,0,3,109.8
+1/09/2019,Bentley Hospital,0,0,0,0,0,2,73.2
+1/09/2019,Bethesda Hospital,0,0,0,0,0,2,73.2
+1/09/2019,Fremantle Hospital,0,0,0,0,0,2,73.2
+1/09/2019,Rockingham General Hospital,1,0,0,0,0,0,1.8
+1/11/2019,Bentley Hospital,0,0,0,0,0,2,73.2
+1/11/2019,Fremantle Hospital,0,0,0,0,0,2,73.2
+1/11/2019,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/11/2019,Rockingham General Hospital,0,0,0,1,0,0,233
+1/11/2019,Royal Perth Hospital - Main Store,0,0,0,1,0,0,233
+1/11/2019,Royal Perth Hospital - Theatres,1,0,0,0,0,0,1.8
+1/11/2019,South Perth Hospital,0,0,0,0,0,1,36.6
+1/01/2021,Bentley Hospital,0,0,0,0,0,2,73.2
+1/01/2021,Fremantle Hospital,0,0,0,0,0,2,73.2
+1/01/2021,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/03/2022,Bentley Hospital,0,0,0,0,0,2,73.2
+1/03/2022,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/03/2022,Fremantle Hospital,0,0,0,0,0,2,73.2
+1/03/2022,Rockingham General Hospital,3,1,1,0,0,0,28.6
+1/03/2022,Sir Charles Gairdner Hospital,0,3,0,0,0,0,19.8
+1/03/2022,South Perth Hospital,0,0,2,0,0,2,106.8
+1/03/2022,UWA - OHCWA,0,4,0,0,0,0,26.4
+1/07/2022,Bentley Hospital,0,0,0,0,0,2,73.2
+1/07/2022,Bethesda Hospital,1,0,0,0,0,0,1.8
+1/07/2022,Fremantle Hospital,1,0,0,0,0,0,1.8
+1/07/2022,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/07/2022,Perth Children's Hospital - Pack Store,0,0,0,1,0,0,233
+1/07/2022,Rockingham General Hospital,3,0,0,0,0,0,5.2
+1/07/2022,South Perth Hospital,0,0,0,0,0,1,36.6
+1/04/2023,Bentley Hospital,1,0,0,0,0,0,1.8
+1/04/2023,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/02/2024,Bentley Hospital,0,0,0,0,0,2,73.2
+1/02/2024,Bethesda Hospital,0,0,0,0,0,4,146.4
+1/02/2024,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/02/2024,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/02/2024,Rockingham General Hospital,0,0,0,1,0,0,233
+1/02/2024,Royal Perth Hospital - Main Store,0,0,0,0,0,1,36.6
+1/08/2024,Bentley Hospital,0,0,0,0,0,2,73.2
+1/08/2024,Rockingham General Hospital,0,0,0,1,0,0,233
+1/11/2024,Bentley Hospital,0,2,0,0,0,0,13.2
+1/11/2024,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/11/2024,Royal Perth Hospital - Theatres,2,0,0,0,0,0,3.5
+1/06/2017,Bethesda Hospital,0,0,0,0,0,2,73.2
+1/06/2017,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/06/2017,Sir Charles Gairdner Hospital,0,1,0,0,0,0,6.6
+1/06/2017,South Perth Hospital,0,0,0,0,0,1,36.6
+1/08/2017,Bethesda Hospital,0,0,0,0,0,2,73.2
+1/08/2017,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/08/2017,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/08/2017,Perth Children's Hospital - Pack Store,0,0,0,2,0,0,466
+1/08/2017,Royal Perth Hospital - Main Store,0,0,0,1,0,0,233
+1/08/2017,South Perth Hospital,0,0,0,0,0,3,109.8
+1/11/2017,Bethesda Hospital,0,0,0,0,0,2,73.2
+1/11/2017,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/11/2017,Rockingham General Hospital,0,0,0,1,0,0,233
+1/11/2017,Sir Charles Gairdner Hospital,0,1,0,0,0,0,6.6
+1/11/2017,UWA - OHCWA,0,5,0,0,0,0,33
+1/04/2019,Bethesda Hospital,0,0,0,0,0,8,292.8
+1/04/2019,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/04/2019,Osborne Park Hospital,0,0,0,0,0,1,36.6
+1/04/2019,Rockingham General Hospital,0,0,0,1,0,0,233
+1/04/2019,Royal Perth Hospital - Main Store,0,0,0,2,0,0,466
+1/03/2020,Bethesda Hospital,0,0,0,0,0,2,73.2
+1/03/2020,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/03/2020,Fremantle Hospital,0,0,0,0,0,2,73.2
+1/03/2020,Rockingham General Hospital,0,0,0,1,0,0,233
+1/03/2020,South Perth Hospital,0,0,0,0,0,1,36.6
+1/02/2021,Bethesda Hospital,0,0,0,0,0,2,73.2
+1/02/2021,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/02/2021,Rockingham General Hospital,0,0,0,1,0,0,233
+1/05/2021,Bethesda Hospital,0,0,0,0,0,2,73.2
+1/05/2021,Fremantle Hospital,0,0,0,0,0,2,73.2
+1/05/2021,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/05/2021,Royal Perth Hospital - Theatres,3,3,0,0,0,0,25
+1/09/2021,Bethesda Hospital,0,0,0,0,0,2,73.2
+1/09/2021,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/09/2021,Perth Children's Hospital - Theatre,2,0,0,0,0,0,3.5
+1/09/2021,Rockingham General Hospital,0,0,0,1,0,0,233
+1/09/2021,South Perth Hospital,0,0,0,0,0,3,109.8
+1/12/2021,Bethesda Hospital,0,0,0,0,0,2,73.2
+1/12/2021,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/12/2021,Osborne Park Hospital,0,0,0,0,0,2,73.2
+1/12/2021,Rockingham General Hospital,0,0,0,1,0,0,233
+1/08/2022,Bethesda Hospital,0,0,0,0,0,1,36.6
+1/08/2022,Fiona Stanley Hospital,0,0,0,2,0,0,466
+1/08/2022,Osborne Park Hospital,1,0,0,0,0,0,1.8
+1/08/2022,Rockingham General Hospital,1,0,0,1,0,0,234.8
+1/01/2023,Bethesda Hospital,0,0,0,0,0,5,183
+1/01/2023,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/01/2023,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/01/2023,Rockingham General Hospital,2,0,0,0,0,0,3.5
+1/01/2023,Sir Charles Gairdner Hospital,1,0,0,0,0,0,1.8
+1/08/2020,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/08/2020,Rockingham General Hospital,1,0,0,1,0,0,234.8
+1/09/2020,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/09/2020,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/09/2020,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/09/2020,Perth Children's Hospital - Pack Store,0,0,0,2,0,0,466
+1/09/2020,Royal Perth Hospital - Main Store,0,0,0,1,0,0,233
+1/09/2020,South Perth Hospital,0,0,0,0,0,2,73.2
+1/06/2021,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/06/2021,Fremantle Hospital,1,0,0,0,0,0,1.8
+1/06/2021,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/06/2021,Rockingham General Hospital,0,0,0,1,0,0,233
+1/06/2021,Royal Perth Hospital - Main Store,0,0,0,1,0,0,233
+1/06/2022,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/06/2022,Osborne Park Hospital,0,0,0,0,0,2,73.2
+1/06/2022,Rockingham General Hospital,0,0,0,1,0,0,233
+1/06/2022,Royal Perth Hospital - Theatres,0,1,0,0,0,0,6.6
+1/02/2023,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/02/2023,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/02/2023,Sir Charles Gairdner Hospital,0,1,0,0,0,0,6.6
+1/02/2023,South Perth Hospital,0,0,0,0,0,2,73.2
+1/09/2023,Fiona Stanley Hospital,0,0,0,1,0,0,233
+1/09/2023,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/09/2023,Osborne Park Hospital,0,2,0,0,0,0,13.2
+1/09/2023,Rockingham General Hospital,1,0,0,0,0,0,1.8
+1/09/2023,South Perth Hospital,0,0,0,0,0,1,36.6
+1/05/2020,Fremantle Hospital,0,1,0,0,0,0,6.6
+1/06/2020,Fremantle Hospital,0,0,0,0,0,2,73.2
+1/06/2020,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/06/2020,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/06/2020,Royal Perth Hospital - Theatres,1,0,0,0,0,0,1.8
+1/06/2020,South Perth Hospital,0,0,0,0,0,1,36.6
+1/08/2021,Fremantle Hospital,0,0,0,0,0,2,73.2
+1/08/2021,Osborne Park Hospital,1,0,0,0,0,4,148.2
+1/08/2021,Rockingham General Hospital,1,0,0,0,0,0,1.8
+1/08/2021,Sir Charles Gairdner Hospital,0,1,0,0,0,0,6.6
+1/08/2021,South Perth Hospital,0,0,0,0,0,1,36.6
+1/10/2021,Fremantle Hospital,2,0,0,0,0,0,3.5
+1/10/2021,King Edward Memorial Hospital For Women,0,0,0,0,0,6,219.6
+1/10/2021,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/10/2021,Rockingham General Hospital,1,0,0,1,0,0,234.8
+1/10/2022,Fremantle Hospital,0,0,0,0,0,2,73.2
+1/10/2022,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/04/2024,Fremantle Hospital,0,1,0,0,0,0,6.6
+1/04/2024,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/04/2024,Osborne Park Hospital,2,0,0,0,0,1,40.1
+1/04/2024,Royal Perth Hospital - Theatres,0,0,1,0,0,0,16.8
+1/04/2024,Sir Charles Gairdner Hospital,1,2,0,0,0,0,15
+1/04/2024,South Perth Hospital,0,0,0,0,0,1,36.6
+1/05/2019,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/05/2019,Royal Perth Hospital - Main Store,0,0,0,1,0,0,233
+1/05/2019,South Perth Hospital,0,0,0,0,0,1,36.6
+1/01/2020,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/01/2020,Perth Children's Hospital - Pack Store,0,3,0,0,0,0,19.8
+1/01/2020,Sir Charles Gairdner Hospital,0,1,0,0,0,0,6.6
+1/03/2021,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/03/2021,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/03/2021,Rockingham General Hospital,0,0,0,1,0,0,233
+1/03/2021,South Perth Hospital,0,0,0,0,0,1,36.6
+1/03/2024,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/03/2024,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/03/2024,Perth Children's Hospital - Pack Store,0,0,0,1,0,0,233
+1/03/2024,Rockingham General Hospital,2,0,0,0,0,0,3.5
+1/03/2024,Royal Perth Hospital - Theatres,2,0,0,0,0,0,3.5
+1/06/2024,King Edward Memorial Hospital For Women,0,0,0,0,0,8,292.8
+1/06/2024,Osborne Park Hospital,0,4,0,0,0,4,172.8
+1/06/2024,Rockingham General Hospital,2,0,0,1,0,0,236.5
+1/06/2024,Royal Perth Hospital - Theatres,13,0,0,0,0,0,22.8
+1/06/2024,Sir Charles Gairdner Hospital,1,1,0,0,0,0,8.4
+1/06/2024,UWA - OHCWA,0,5,0,0,0,0,33
+1/02/2017,Osborne Park Hospital,0,0,0,0,0,4,146.4
+1/02/2017,South Perth Hospital,0,0,0,0,0,1,36.6
+1/11/2018,Perth Children's Hospital - Theatre,1,0,0,0,0,0,1.8
+1/11/2018,Royal Perth Hospital - Main Store,0,0,0,1,0,0,233
+1/11/2018,UWA - OHCWA,0,4,0,0,0,4,172.8
+1/11/2020,Rockingham General Hospital,2,0,0,1,0,0,236.5
+1/11/2020,Royal Perth Hospital - Main Store,0,0,0,1,0,0,233
+1/11/2020,South Perth Hospital,0,0,0,0,0,1,36.6

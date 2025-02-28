@@ -1,0 +1,42 @@
+.data-box {
+    max-width: 800px;
+    margin: auto;
+    padding: 30px;
+    border: 1px solid #eee;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;
+    color: #555;
+}
+
+.data-box table {
+    width: 100%;
+    line-height: inherit;
+    text-align: left;
+}
+
+.data-box table td {
+    padding: 10px;
+    vertical-align: top;
+}
+
+.data-box table tr td:nth-child(2) {
+    text-align: right;
+}
+
+.data-box table tr.top table td {
+    padding-bottom: 10px;
+}
+
+.data-box table tr.heading td {
+    background: #eee;
+    border-bottom: 1px solid #ddd;
+    font-weight: bold;
+}
+
+.data-box table tr.details td {
+    padding-bottom: 10px;
+    text-align: left;
+}
+

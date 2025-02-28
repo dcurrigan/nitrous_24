@@ -1,0 +1,522 @@
+﻿date,name,cylinder,units
+Jan-17,Albany Hospital,cylinder_d,1
+Jan-17,Albany Hospital,cylinder_g,2
+Jan-17,Busselton Hospital,cylinder_g,2
+Jan-17,Derby Hospital,cylinder_e,2
+Jan-17,Kununurra Hospital,cylinder_e,2
+Feb-17,Albany Hospital,cylinder_g,2
+Feb-17,Boddington Hospital,cylinder_d,1
+Feb-17,Broome Hospital,cylinder_d,4
+Feb-17,Busselton Hospital,cylinder_g,0
+Feb-17,WACHS South West Pharmacy Dept Busselton,cylinder_g,2
+Feb-17,Derby Hospital,cylinder_e,2
+Feb-17,Kalgoorlie Hospital,cylinder_f8,1
+Feb-17,Margaret River Hospital,cylinder_g,2
+Feb-17,Hedland Health Campus,cylinder_g,2
+Mar-17,Albany Hospital,cylinder_d,1
+Mar-17,Albany Hospital,cylinder_g,4
+Mar-17,Broome Hospital,cylinder_g,2
+Mar-17,Denmark Hospital,cylinder_g,1
+Mar-17,Katanning Hospital,cylinder_e,2
+Mar-17,Kununurra Hospital,cylinder_e,2
+Mar-17,Margaret River Hospital,cylinder_g,1
+Mar-17,Northam Hospital,cylinder_g,2
+Apr-17,Albany Hospital,cylinder_g,2
+Apr-17,Busselton Hospital,cylinder_g,2
+Apr-17,WACHS South West Pharmacy Dept Collie,cylinder_e,2
+Apr-17,Geraldton Hospital,cylinder_g,2
+Apr-17,Kununurra Hospital,cylinder_e,2
+Apr-17,Warren Hospital,cylinder_e,2
+May-17,Albany Hospital,cylinder_g,4
+May-17,Bridgetown Hospital,cylinder_g,2
+May-17,Kununurra Hospital,cylinder_c,1
+Jun-17,Albany Hospital,cylinder_g,4
+Jun-17,Broome Hospital,cylinder_g,2
+Jun-17,Busselton Hospital,cylinder_g,2
+Jun-17,Carnarvon Hospital,cylinder_g,3
+Jun-17,Derby Hospital,cylinder_e,2
+Jun-17,Esperance Hospital,cylinder_g,2
+Jun-17,Geraldton Hospital,cylinder_g,2
+Jun-17,Karratha Health Campus,cylinder_g,4
+Jun-17,Kununurra Hospital,cylinder_c,1
+Jun-17,Kununurra Hospital,cylinder_e,2
+Jun-17,Warren Hospital,cylinder_e,4
+Jul-17,Albany Hospital,cylinder_g,2
+Jul-17,Broome Hospital,cylinder_g,2
+Jul-17,Esperance Hospital,cylinder_g,1
+Jul-17,Narrogin Hospital,cylinder_e,2
+Aug-17,Albany Hospital,cylinder_g,4
+Aug-17,Broome Hospital,cylinder_d,1
+Aug-17,WACHS South West Pharmacy Dept Busselton,cylinder_g,4
+Aug-17,Katanning Hospital,cylinder_e,2
+Aug-17,Kununurra Hospital,cylinder_e,2
+Aug-17,Hedland Health Campus,cylinder_g,2
+Sep-17,Albany Hospital,cylinder_g,2
+Sep-17,Kalgoorlie Hospital,cylinder_f8,1
+Oct-17,Albany Hospital,cylinder_c,1
+Oct-17,Albany Hospital,cylinder_g,2
+Oct-17,Boddington Hospital,cylinder_d,1
+Oct-17,Bridgetown Hospital,cylinder_g,4
+Oct-17,Broome Hospital,cylinder_g,2
+Oct-17,Geraldton Hospital,cylinder_g,2
+Oct-17,Kununurra Hospital,cylinder_e,2
+Oct-17,Narrogin Hospital,cylinder_e,2
+Oct-17,Hedland Health Campus,cylinder_g,3
+Nov-17,Albany Hospital,cylinder_g,4
+Nov-17,Broome Hospital,cylinder_d,1
+Dec-17,Albany Hospital,cylinder_g,4
+Dec-17,Broome Hospital,cylinder_g,2
+Dec-17,WACHS South West Pharmacy Dept Busselton,cylinder_g,2
+Dec-17,Kununurra Hospital,cylinder_e,2
+Dec-17,Narrogin Hospital,cylinder_g,4
+Jan-18,Albany Hospital,cylinder_g,2
+Jan-18,Katanning Hospital,cylinder_e,2
+Jan-18,Hedland Health Campus,cylinder_g,1
+Feb-18,Albany Hospital,cylinder_g,4
+Feb-18,Broome Hospital,cylinder_d,1
+Feb-18,Derby Hospital,cylinder_e,2
+Feb-18,Karratha Health Campus,cylinder_g,4
+Feb-18,Kununurra Hospital,cylinder_c,1
+Feb-18,Kununurra Hospital,cylinder_e,2
+Feb-18,Hedland Health Campus,cylinder_g,2
+Mar-18,Albany Hospital,cylinder_g,4
+Mar-18,Broome Hospital,cylinder_g,2
+Mar-18,WACHS South West Pharmacy Dept Busselton,cylinder_g,2
+Mar-18,Warren Hospital,cylinder_g,4
+Apr-18,Albany Hospital,cylinder_g,6
+Apr-18,Boddington Hospital,cylinder_d,1
+Apr-18,Broome Hospital,cylinder_d,3
+Apr-18,Geraldton Hospital,cylinder_g,2
+Apr-18,Kununurra Hospital,cylinder_e,2
+Apr-18,Hedland Health Campus,cylinder_g,2
+May-18,Broome Hospital,cylinder_d,1
+May-18,Kalgoorlie Hospital,cylinder_f8,1
+May-18,Katanning Hospital,cylinder_e,2
+May-18,Kununurra Hospital,cylinder_e,2
+May-18,Hedland Health Campus,cylinder_c,1
+Jun-18,Albany Hospital,cylinder_g,2
+Jun-18,Broome Hospital,cylinder_g,2
+Jun-18,Derby Hospital,cylinder_e,2
+Jun-18,Karratha Health Campus,cylinder_g,4
+Jun-18,Hedland Health Campus,cylinder_g,2
+Jul-18,Albany Hospital,cylinder_g,2
+Jul-18,Broome Hospital,cylinder_d,1
+Jul-18,WACHS South West Pharmacy Dept Busselton,cylinder_g,2
+Jul-18,Plantagenet Hospital,cylinder_e,1
+Jul-18,Narrogin Hospital,cylinder_g,2
+Aug-18,Albany Hospital,cylinder_g,4
+Aug-18,Bunbury Hospital,cylinder_c,0
+Aug-18,Derby Hospital,cylinder_e,2
+Aug-18,Fitzroy Crossing Hospital,cylinder_d,1
+Aug-18,Geraldton Hospital,cylinder_g,2
+Aug-18,Karratha Health Campus,cylinder_g,4
+Sep-18,Albany Hospital,cylinder_g,2
+Sep-18,Karratha Health Campus,cylinder_g,2
+Sep-18,Hedland Health Campus,cylinder_g,2
+Oct-18,Albany Hospital,cylinder_g,4
+Oct-18,Boddington Hospital,cylinder_d,1
+Oct-18,Broome Hospital,cylinder_d,1
+Oct-18,WACHS South West Pharmacy Dept Collie,cylinder_e,2
+Oct-18,Derby Hospital,cylinder_e,2
+Oct-18,Esperance Hospital,cylinder_g,2
+Oct-18,Kununurra Hospital,cylinder_e,2
+Nov-18,Albany Hospital,cylinder_g,4
+Nov-18,WACHS South West Pharmacy Dept Busselton,cylinder_g,2
+Dec-18,Albany Hospital,cylinder_g,4
+Dec-18,Broome Hospital,cylinder_g,2
+Dec-18,Derby Hospital,cylinder_e,2
+Dec-18,Northam Hospital,cylinder_g,2
+Dec-18,Hedland Health Campus,cylinder_g,4
+Jan-19,Albany Hospital,cylinder_g,2
+Jan-19,Derby Hospital,cylinder_e,2
+Jan-19,Geraldton Hospital,cylinder_g,2
+Jan-19,Karratha Health Campus,cylinder_g,4
+Jan-19,Merredin Hospital,cylinder_e,1
+Jan-19,Mullewa Hospital,cylinder_d,1
+Feb-19,Albany Hospital,cylinder_g,4
+Feb-19,Broome Hospital,cylinder_d,1
+Feb-19,Broome Hospital,cylinder_g,4
+Feb-19,WACHS South West Pharmacy Dept Busselton,cylinder_g,2
+Feb-19,Derby Hospital,cylinder_e,2
+Feb-19,Geraldton Hospital,cylinder_g,2
+Feb-19,Kalgoorlie Hospital,cylinder_f8,1
+Feb-19,Plantagenet Hospital,cylinder_e,1
+Mar-19,Albany Hospital,cylinder_g,4
+Mar-19,WACHS South West Pharmacy Dept Collie,cylinder_e,2
+Mar-19,Derby Hospital,cylinder_d,1
+Mar-19,Derby Hospital,cylinder_e,2
+Apr-19,Broome Hospital,cylinder_g,4
+Apr-19,Geraldton Hospital,cylinder_g,2
+Apr-19,Narrogin Hospital,cylinder_g,2
+May-19,Derby Hospital,cylinder_d,1
+May-19,Derby Hospital,cylinder_e,2
+May-19,Kununurra Hospital,cylinder_e,2
+May-19,Warren Hospital,cylinder_g,2
+Jun-19,Boddington Hospital,cylinder_d,1
+Jun-19,Esperance Hospital,cylinder_g,3
+Jun-19,Fitzroy Crossing Hospital,cylinder_e,2
+Jun-19,Geraldton Hospital,cylinder_g,2
+Jun-19,Karratha Health Campus,cylinder_g,2
+Jun-19,Hedland Health Campus,cylinder_g,2
+Jul-19,Albany Hospital,cylinder_g,2
+Jul-19,Broome Hospital,cylinder_d,1
+Jul-19,Geraldton Hospital,cylinder_g,4
+Jul-19,Katanning Hospital,cylinder_c,1
+Jul-19,Kununurra Hospital,cylinder_c,1
+Aug-19,Albany Hospital,cylinder_g,2
+Aug-19,Augusta Hospital,cylinder_d,1
+Aug-19,Boddington Hospital,cylinder_d,1
+Aug-19,Broome Hospital,cylinder_g,4
+Aug-19,WACHS South West Pharmacy Dept Busselton,cylinder_g,2
+Aug-19,Derby Hospital,cylinder_d,2
+Aug-19,Derby Hospital,cylinder_e,2
+Aug-19,Kalgoorlie Hospital,cylinder_f8,1
+Aug-19,Kununurra Hospital,cylinder_c,1
+Aug-19,Narrogin Hospital,cylinder_g,2
+Sep-19,Derby Hospital,cylinder_e,2
+Sep-19,Karratha Health Campus,cylinder_g,2
+Sep-19,Northam Hospital,cylinder_g,2
+Oct-19,Albany Hospital,cylinder_g,2
+Oct-19,Bridgetown Hospital,cylinder_g,2
+Oct-19,Broome Hospital,cylinder_g,2
+Oct-19,WACHS South West Pharmacy Dept Busselton,cylinder_g,2
+Oct-19,Derby Hospital,cylinder_e,3
+Oct-19,Esperance Hospital,cylinder_g,2
+Oct-19,Geraldton Hospital,cylinder_g,4
+Nov-19,Fitzroy Crossing Hospital,cylinder_d,1
+Nov-19,Kununurra Hospital,cylinder_e,2
+Nov-19,Narrogin Hospital,cylinder_d,1
+Nov-19,Hedland Health Campus,cylinder_g,2
+Dec-19,Albany Hospital,cylinder_e,1
+Dec-19,Bridgetown Hospital,cylinder_g,2
+Dec-19,Broome Hospital,cylinder_c,1
+Dec-19,Broome Hospital,cylinder_d,1
+Dec-19,Broome Hospital,cylinder_g,1
+Dec-19,WACHS South West Pharmacy Dept Busselton,cylinder_g,2
+Dec-19,WACHS South West Pharmacy Dept Collie,cylinder_e,4
+Dec-19,Derby Hospital,cylinder_e,4
+Dec-19,Hedland Health Campus,cylinder_g,2
+Jan-20,Albany Hospital,cylinder_g,2
+Jan-20,Boddington Hospital,cylinder_d,1
+Jan-20,Broome Hospital,cylinder_d,1
+Jan-20,Geraldton Hospital,cylinder_g,2
+Feb-20,Boddington Hospital,cylinder_d,1
+Feb-20,Broome Hospital,cylinder_c,1
+Feb-20,Broome Hospital,cylinder_d,1
+Feb-20,Derby Hospital,cylinder_d,1
+Mar-20,Albany Hospital,cylinder_g,2
+Mar-20,Broome Hospital,cylinder_g,4
+Mar-20,WACHS South West Pharmacy Dept Busselton,cylinder_g,2
+Mar-20,Derby Hospital,cylinder_e,2
+Mar-20,Geraldton Hospital,cylinder_g,2
+Apr-20,Derby Hospital,cylinder_e,2
+Apr-20,Karratha Health Campus,cylinder_g,4
+May-20,Bridgetown Hospital,cylinder_c,1
+May-20,Broome Hospital,cylinder_g,2
+May-20,WACHS South West Pharmacy Dept Collie,cylinder_e,2
+May-20,Derby Hospital,cylinder_e,2
+Jun-20,Albany Hospital,cylinder_e,2
+Jun-20,Albany Hospital,cylinder_g,2
+Jun-20,WACHS South West Pharmacy Dept Busselton,cylinder_g,2
+Jun-20,Carnarvon Hospital,cylinder_g,3
+Jun-20,Derby Hospital,cylinder_e,2
+Jun-20,Esperance Hospital,cylinder_g,1
+Jun-20,Fitzroy Crossing Hospital,cylinder_e,2
+Jun-20,Halls Creek Hospital,cylinder_c,1
+Jul-20,Albany Hospital,cylinder_g,2
+Jul-20,Derby Hospital,cylinder_e,2
+Jul-20,Northam Hospital,cylinder_g,2
+Aug-20,Broome Hospital,cylinder_c,1
+Aug-20,Broome Hospital,cylinder_g,3
+Aug-20,Derby Hospital,cylinder_e,4
+Aug-20,Kalgoorlie Hospital,cylinder_f8,1
+Aug-20,Kununurra Hospital,cylinder_e,2
+Aug-20,Hedland Health Campus,cylinder_g,4
+Sep-20,WACHS South West Pharmacy Dept Collie,cylinder_e,2
+Sep-20,Derby Hospital,cylinder_e,1
+Sep-20,Kununurra Hospital,cylinder_c,1
+Oct-20,Albany Hospital,cylinder_d,1
+Oct-20,Albany Hospital,cylinder_g,2
+Oct-20,Broome Hospital,cylinder_g,2
+Oct-20,WACHS South West Pharmacy Dept Busselton,cylinder_g,2
+Oct-20,Derby Hospital,cylinder_e,4
+Oct-20,Karratha Health Campus,cylinder_g,2
+Nov-20,Broome Hospital,cylinder_g,2
+Nov-20,Geraldton Hospital,cylinder_g,2
+Dec-20,Boddington Hospital,cylinder_d,1
+Dec-20,Derby Hospital,cylinder_e,2
+Dec-20,Kalgoorlie Hospital,cylinder_d,1
+Dec-20,Warren Hospital,cylinder_g,2
+Jan-21,Albany Hospital,cylinder_e,1
+Jan-21,Albany Hospital,cylinder_g,2
+Jan-21,Busselton Hospital,cylinder_g,2
+Jan-21,Derby Hospital,cylinder_e,2
+Jan-21,Warren Hospital,cylinder_g,2
+Jan-21,Hedland Health Campus,cylinder_g,2
+Feb-21,Broome Hospital,cylinder_g,2
+Feb-21,Kalgoorlie Hospital,cylinder_d,3
+Feb-21,Karratha Health Campus,cylinder_g,2
+Feb-21,Margaret River Hospital,cylinder_c,1
+Mar-21,Broome Hospital,cylinder_d,1
+Mar-21,Derby Hospital,cylinder_e,2
+Mar-21,Halls Creek Hospital,cylinder_c,1
+Mar-21,Kununurra Hospital,cylinder_e,2
+Apr-21,Albany Hospital,cylinder_g,4
+Apr-21,Augusta Hospital,cylinder_d,1
+May-21,Broome Hospital,cylinder_d,2
+May-21,Broome Hospital,cylinder_g,2
+May-21,Busselton Hospital,cylinder_g,2
+May-21,Derby Hospital,cylinder_e,4
+May-21,Esperance Hospital,cylinder_g,2
+May-21,Geraldton Hospital,cylinder_g,2
+May-21,Narrogin Hospital,cylinder_g,2
+May-21,Hedland Health Campus,cylinder_g,2
+Jun-21,Karratha Health Campus,cylinder_g,2
+Jun-21,Kununurra Hospital,cylinder_e,2
+Jun-21,Warren Hospital,cylinder_g,2
+Jul-21,Albany Hospital,cylinder_g,2
+Jul-21,Bridgetown Hospital,cylinder_g,2
+Jul-21,Broome Hospital,cylinder_d,1
+Jul-21,Broome Hospital,cylinder_g,2
+Jul-21,Derby Hospital,cylinder_d,1
+Jul-21,Derby Hospital,cylinder_e,2
+Jul-21,Kalgoorlie Hospital,cylinder_f8,1
+Aug-21,Bridgetown Hospital,cylinder_g,2
+Aug-21,Broome Hospital,cylinder_c,1
+Aug-21,Derby Hospital,cylinder_d,-1
+Aug-21,Derby Hospital,cylinder_e,2
+Aug-21,Warren Hospital,cylinder_g,2
+Sep-21,Albany Hospital,cylinder_g,2
+Sep-21,Broome Hospital,cylinder_c,1
+Sep-21,Broome Hospital,cylinder_d,1
+Sep-21,Derby Hospital,cylinder_e,2
+Sep-21,Warren Hospital,cylinder_g,3
+Sep-21,Northam Hospital,cylinder_g,2
+Sep-21,Hedland Health Campus,cylinder_g,2
+Oct-21,Broome Hospital,cylinder_g,2
+Oct-21,Busselton Hospital,cylinder_g,2
+Oct-21,Geraldton Hospital,cylinder_g,2
+Oct-21,Karratha Health Campus,cylinder_g,2
+Oct-21,Warren Hospital,cylinder_g,5
+Nov-21,Albany Hospital,cylinder_g,2
+Nov-21,Broome Hospital,cylinder_g,2
+Nov-21,Warren Hospital,cylinder_g,2
+Dec-21,Albany Hospital,cylinder_g,2
+Dec-21,Boddington Hospital,cylinder_d,1
+Dec-21,Busselton Hospital,cylinder_d,1
+Dec-21,Geraldton Hospital,cylinder_g,2
+Dec-21,Kununurra Hospital,cylinder_c,2
+Dec-21,Kununurra Hospital,cylinder_e,2
+Dec-21,Warren Hospital,cylinder_g,4
+Dec-21,Margaret River Hospital,cylinder_g,1
+Dec-21,Hedland Health Campus,cylinder_g,2
+Jan-22,Albany Hospital,cylinder_g,2
+Jan-22,Broome Hospital,cylinder_g,4
+Jan-22,Esperance Hospital,cylinder_g,1
+Jan-22,Warren Hospital,cylinder_g,2
+Jan-22,Merredin Hospital,cylinder_e,1
+Feb-22,Albany Hospital,cylinder_g,2
+Feb-22,Derby Hospital,cylinder_c,1
+Feb-22,Derby Hospital,cylinder_e,2
+Feb-22,Geraldton Hospital,cylinder_g,2
+Feb-22,Karratha Health Campus,cylinder_g,2
+Feb-22,Warren Hospital,cylinder_g,4
+Feb-22,Northam Hospital,cylinder_d,1
+Mar-22,Albany Hospital,cylinder_g,2
+Mar-22,Broome Hospital,cylinder_d,1
+Mar-22,Broome Hospital,cylinder_g,2
+Mar-22,Busselton Hospital,cylinder_g,2
+Mar-22,Esperance Hospital,cylinder_g,2
+Mar-22,Warren Hospital,cylinder_g,4
+Mar-22,Hedland Health Campus,cylinder_g,2
+Apr-22,Albany Hospital,cylinder_g,2
+Apr-22,Broome Hospital,cylinder_d,1
+Apr-22,Karratha Health Campus,cylinder_g,2
+May-22,Broome Hospital,cylinder_c,1
+May-22,Esperance Hospital,cylinder_g,1
+May-22,Geraldton Hospital,cylinder_g,2
+May-22,Warren Hospital,cylinder_g,2
+May-22,Narrogin Hospital,cylinder_g,2
+May-22,Northam Hospital,cylinder_d,1
+Jun-22,Broome Hospital,cylinder_g,2
+Jun-22,Derby Hospital,cylinder_e,2
+Jun-22,Kalgoorlie Hospital,cylinder_f8,1
+Jun-22,Kununurra Hospital,cylinder_e,2
+Jun-22,Warren Hospital,cylinder_g,2
+Jul-22,Albany Hospital,cylinder_g,4
+Jul-22,Bridgetown Hospital,cylinder_g,2
+Jul-22,Broome Hospital,cylinder_g,3
+Jul-22,Geraldton Hospital,cylinder_g,2
+Jul-22,Warren Hospital,cylinder_g,4
+Jul-22,Northam Hospital,cylinder_g,2
+Aug-22,Albany Hospital,cylinder_g,2
+Aug-22,Broome Hospital,cylinder_d,1
+Aug-22,Broome Hospital,cylinder_g,1
+Aug-22,Karratha Health Campus,cylinder_g,2
+Aug-22,Hedland Health Campus,cylinder_g,2
+Sep-22,Albany Hospital,cylinder_g,4
+Sep-22,Broome Hospital,cylinder_d,1
+Sep-22,Busselton Hospital,cylinder_g,2
+Sep-22,Derby Hospital,cylinder_d,1
+Sep-22,Derby Hospital,cylinder_e,2
+Sep-22,Geraldton Hospital,cylinder_g,2
+Sep-22,Warren Hospital,cylinder_g,2
+Sep-22,Northam Hospital,cylinder_g,4
+Oct-22,Albany Hospital,cylinder_g,2
+Oct-22,Broome Hospital,cylinder_d,1
+Oct-22,Broome Hospital,cylinder_g,1
+Oct-22,Katanning Hospital,cylinder_e,2
+Oct-22,Warren Hospital,cylinder_g,2
+Oct-22,Hedland Health Campus,cylinder_g,2
+Nov-22,Albany Hospital,cylinder_g,2
+Nov-22,Broome Hospital,cylinder_g,2
+Nov-22,Kununurra Hospital,cylinder_e,2
+Nov-22,Warren Hospital,cylinder_g,2
+Nov-22,Hedland Health Campus,cylinder_g,2
+Dec-22,Albany Hospital,cylinder_g,2
+Dec-22,Broome Hospital,cylinder_d,1
+Dec-22,Collie Hospital,cylinder_g,4
+Dec-22,Geraldton Hospital,cylinder_g,2
+Dec-22,Karratha Health Campus,cylinder_g,2
+Dec-22,Warren Hospital,cylinder_g,2
+Dec-22,Narrogin Hospital,cylinder_c,2
+Jan-23,Boddington Hospital,cylinder_d,1
+Jan-23,Broome Hospital,cylinder_c,1
+Jan-23,Broome Hospital,cylinder_d,1
+Jan-23,Derby Hospital,cylinder_e,1
+Jan-23,Hedland Health Campus,cylinder_g,2
+Feb-23,Albany Hospital,cylinder_g,4
+Feb-23,Broome Hospital,cylinder_d,2
+Feb-23,Warren Hospital,cylinder_g,2
+Mar-23,Broome Hospital,cylinder_g,2
+Mar-23,Derby Hospital,cylinder_c,1
+Mar-23,Derby Hospital,cylinder_e,2
+Mar-23,Hedland Health Campus,cylinder_g,2
+Apr-23,Albany Hospital,cylinder_g,2
+Apr-23,Broome Hospital,cylinder_c,2
+Apr-23,Broome Hospital,cylinder_d,3
+Apr-23,Busselton Hospital,cylinder_g,2
+Apr-23,Kununurra Hospital,cylinder_c,2
+May-23,Albany Hospital,cylinder_g,6
+May-23,Broome Hospital,cylinder_c,1
+May-23,Karratha Health Campus,cylinder_g,2
+May-23,Kununurra Hospital,cylinder_c,1
+May-23,Hedland Health Campus,cylinder_g,2
+Jun-23,Augusta Hospital,cylinder_d,1
+Jun-23,Broome Hospital,cylinder_d,1
+Jun-23,Esperance Hospital,cylinder_g,3
+Jun-23,Geraldton Hospital,cylinder_g,4
+Jul-23,Broome Hospital,cylinder_g,2
+Jul-23,Esperance Hospital,cylinder_g,0
+Jul-23,Hedland Health Campus,cylinder_g,2
+Jul-23,Hedland Health Campus,cylinder_g,2
+Aug-23,Albany Hospital,cylinder_g,4
+Aug-23,Boddington Hospital,cylinder_d,1
+Aug-23,Boddington Hospital,cylinder_d,1
+Aug-23,Broome Hospital,cylinder_d,3
+Aug-23,Busselton Hospital,cylinder_g,2
+Aug-23,Kalgoorlie Hospital,cylinder_f8,1
+Aug-23,Karratha Health Campus,cylinder_g,2
+Sep-23,Albany Hospital,cylinder_g,2
+Sep-23,Broome Hospital,cylinder_d,2
+Sep-23,Busselton Hospital,cylinder_g,1
+Sep-23,Kununurra Hospital,cylinder_e,2
+Sep-23,Hedland Health Campus,cylinder_g,2
+Sep-23,Hedland Health Campus,cylinder_g,2
+Oct-23,Albany Hospital,cylinder_g,2
+Oct-23,Augusta Hospital,cylinder_d,1
+Oct-23,Broome Hospital,cylinder_d,1
+Oct-23,Busselton Hospital,cylinder_g,2
+Oct-23,Derby Hospital,cylinder_e,2
+Oct-23,Narrogin Hospital,cylinder_d,1
+Oct-23,Narrogin Hospital,cylinder_d,1
+Nov-23,Albany Hospital,cylinder_d,1
+Nov-23,Albany Hospital,cylinder_g,2
+Nov-23,Broome Hospital,cylinder_g,2
+Nov-23,Broome Hospital,cylinder_c,5
+Nov-23,Broome Hospital,cylinder_d,1
+Nov-23,Busselton Hospital,cylinder_g,4
+Nov-23,Geraldton Hospital,cylinder_g,2
+Nov-23,Kununurra Hospital,cylinder_e,2
+Nov-23,Kununurra Hospital,cylinder_c,2
+Nov-23,Hedland Health Campus,cylinder_g,2
+Nov-23,Hedland Health Campus,cylinder_g,2
+Dec-23,Bridgetown Hospital,cylinder_g,2
+Dec-23,Broome Hospital,cylinder_d,2
+Dec-23,Busselton Hospital,cylinder_d,1
+Dec-23,Busselton Hospital,cylinder_g,1
+Dec-23,Karratha Health Campus,cylinder_g,2
+Dec-23,Warren Hospital,cylinder_g,4
+Jan-24,Albany Hospital,cylinder_g,2
+Jan-24,Busselton Hospital,cylinder_g,1
+Jan-24,Kununurra Hospital,cylinder_e,2
+Jan-24,Northam Hospital,cylinder_g,4
+Jan-24,Hedland Health Campus,cylinder_g,2
+Jan-24,Hedland Health Campus,cylinder_g,2
+Feb-24,Albany Hospital,cylinder_g,2
+Feb-24,Broome Hospital,cylinder_d,2
+Feb-24,Busselton Hospital,cylinder_g,5
+Feb-24,Geraldton Hospital,cylinder_g,2
+Feb-24,Harvey Hospital,cylinder_c,1
+Feb-24,Kununurra Hospital,cylinder_e,2
+Mar-24,Albany Hospital,cylinder_g,2
+Mar-24,Broome Hospital,cylinder_g,2
+Mar-24,Broome Hospital,cylinder_d,1
+Mar-24,Broome Hospital,cylinder_c,1
+Mar-24,Denmark Hospital,cylinder_g,1
+Mar-24,Derby Hospital,cylinder_e,2
+Mar-24,Northam Hospital,cylinder_g,2
+Apr-24,Busselton Hospital,cylinder_g,2
+Apr-24,Karratha Health Campus,cylinder_g,2
+Apr-24,Kununurra Hospital,cylinder_e,2
+May-24,Albany Hospital,cylinder_g,4
+May-24,Bridgetown Hospital,cylinder_g,2
+May-24,Broome Hospital,cylinder_g,2
+May-24,Broome Hospital,cylinder_c,1
+May-24,Broome Hospital,cylinder_d,2
+May-24,Kununurra Hospital,cylinder_e,2
+May-24,Narrogin Hospital,cylinder_g,2
+May-24,Hedland Health Campus,cylinder_g,2
+Jun-24,Broome Hospital,cylinder_d,1
+Jun-24,Busselton Hospital,cylinder_g,4
+Jun-24,Katanning Hospital,cylinder_e,2
+Jun-24,Kununurra Hospital,cylinder_e,2
+Jun-24,Hedland Health Campus,cylinder_g,2
+Jul-24,Albany Hospital,cylinder_g,2
+Jul-24,Broome Hospital,cylinder_d,2
+Jul-24,Busselton Hospital,cylinder_g,4
+Jul-24,Busselton Hospital,cylinder_d,1
+Jul-24,Derby Hospital,cylinder_e,2
+Jul-24,Karratha Health Campus,cylinder_g,2
+Aug-24,Albany Hospital,cylinder_g,2
+Aug-24,Broome Hospital,cylinder_d,1
+Aug-24,Busselton Hospital,cylinder_g,8
+Aug-24,Esperance Hospital,cylinder_g,3
+Sep-24,Albany Hospital,cylinder_e,1
+Sep-24,Albany Hospital,cylinder_g,2
+Sep-24,Broome Hospital,cylinder_d,1
+Sep-24,Broome Hospital,cylinder_g,2
+Sep-24,Busselton Hospital,cylinder_g,10
+Sep-24,Geraldton Hospital,cylinder_g,4
+Sep-24,Kununurra Hospital,cylinder_e,2
+Sep-24,Northam Hospital,cylinder_g,2
+Sep-24,Hedland Health Campus,cylinder_g,2
+Oct-24,Albany Hospital,cylinder_g,2
+Oct-24,Broome Hospital,cylinder_c,1
+Oct-24,Busselton Hospital,cylinder_g,2
+Oct-24,Busselton Hospital,cylinder_g,2
+Oct-24,Kununurra Hospital,cylinder_e,2
+Oct-24,Narrogin Hospital,cylinder_g,2
+Oct-24,Narrogin Hospital,cylinder_g,2
+Nov-24,Albany Hospital,cylinder_g,2
+Nov-24,Broome Hospital,cylinder_d,5
+Nov-24,Broome Hospital,cylinder_c,5
+Nov-24,Busselton Hospital,cylinder_g,2
+Nov-24,Busselton Hospital,cylinder_g,2
+Nov-24,Kalgoorlie Hospital,cylinder_f8,1
+Nov-24,Karratha Health Campus,cylinder_g,2
+Nov-24,Narrogin Hospital,cylinder_d,2
+Nov-24,Narrogin Hospital,cylinder_d,2
+Dec-24,Albany Hospital,cylinder_g,2
+Dec-24,Broome Hospital,cylinder_d,1
+Dec-24,Busselton Hospital,cylinder_g,2

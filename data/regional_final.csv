@@ -1,0 +1,469 @@
+date,name,cylinder_c,cylinder_d,cylinder_e,cylinder_f8,cylinder_f9,cylinder_g,total
+1/01/2017,Albany Hospital,0,1,0,0,0,2,79.8
+1/01/2017,Busselton Hospital,0,0,0,0,0,2,73.2
+1/01/2017,Derby Hospital,0,0,2,0,0,0,33.6
+1/01/2017,Kununurra Hospital,0,0,2,0,0,0,33.6
+1/02/2017,Albany Hospital,0,0,0,0,0,2,73.2
+1/02/2017,Busselton Hospital,0,0,0,0,0,0,0
+1/02/2017,Derby Hospital,0,0,2,0,0,0,33.6
+1/02/2017,Boddington Hospital,0,1,0,0,0,0,6.6
+1/02/2017,Broome Hospital,0,4,0,0,0,0,26.4
+1/02/2017,WACHS South West Pharmacy Dept Busselton,0,0,0,0,0,2,73.2
+1/02/2017,Kalgoorlie Hospital,0,0,0,1,0,0,233
+1/02/2017,Margaret River Hospital,0,0,0,0,0,2,73.2
+1/02/2017,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/03/2017,Albany Hospital,0,1,0,0,0,4,153
+1/03/2017,Kununurra Hospital,0,0,2,0,0,0,33.6
+1/03/2017,Broome Hospital,0,0,0,0,0,2,73.2
+1/03/2017,Margaret River Hospital,0,0,0,0,0,1,36.6
+1/03/2017,Denmark Hospital,0,0,0,0,0,1,36.6
+1/03/2017,Katanning Hospital,0,0,2,0,0,0,33.6
+1/03/2017,Northam Hospital,0,0,0,0,0,2,73.2
+1/04/2017,Albany Hospital,0,0,0,0,0,2,73.2
+1/04/2017,Busselton Hospital,0,0,0,0,0,2,73.2
+1/04/2017,Kununurra Hospital,0,0,2,0,0,0,33.6
+1/04/2017,WACHS South West Pharmacy Dept Collie,0,0,2,0,0,0,33.6
+1/04/2017,Geraldton Hospital,0,0,0,0,0,2,73.2
+1/04/2017,Warren Hospital,0,0,2,0,0,0,33.6
+1/05/2017,Albany Hospital,0,0,0,0,0,4,146.4
+1/05/2017,Kununurra Hospital,1,0,0,0,0,0,1.8
+1/05/2017,Bridgetown Hospital,0,0,0,0,0,2,73.2
+1/06/2017,Albany Hospital,0,0,0,0,0,4,146.4
+1/06/2017,Busselton Hospital,0,0,0,0,0,2,73.2
+1/06/2017,Derby Hospital,0,0,2,0,0,0,33.6
+1/06/2017,Kununurra Hospital,1,0,2,0,0,0,35.4
+1/06/2017,Broome Hospital,0,0,0,0,0,2,73.2
+1/06/2017,Geraldton Hospital,0,0,0,0,0,2,73.2
+1/06/2017,Warren Hospital,0,0,4,0,0,0,67.2
+1/06/2017,Carnarvon Hospital,0,0,0,0,0,3,109.8
+1/06/2017,Esperance Hospital,0,0,0,0,0,2,73.2
+1/06/2017,Karratha Health Campus,0,0,0,0,0,4,146.4
+1/07/2017,Albany Hospital,0,0,0,0,0,2,73.2
+1/07/2017,Broome Hospital,0,0,0,0,0,2,73.2
+1/07/2017,Esperance Hospital,0,0,0,0,0,1,36.6
+1/07/2017,Narrogin Hospital,0,0,2,0,0,0,33.6
+1/08/2017,Albany Hospital,0,0,0,0,0,4,146.4
+1/08/2017,Kununurra Hospital,0,0,2,0,0,0,33.6
+1/08/2017,Broome Hospital,0,1,0,0,0,0,6.6
+1/08/2017,WACHS South West Pharmacy Dept Busselton,0,0,0,0,0,4,146.4
+1/08/2017,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/08/2017,Katanning Hospital,0,0,2,0,0,0,33.6
+1/09/2017,Albany Hospital,0,0,0,0,0,2,73.2
+1/09/2017,Kalgoorlie Hospital,0,0,0,1,0,0,233
+1/10/2017,Albany Hospital,1,0,0,0,0,2,75
+1/10/2017,Kununurra Hospital,0,0,2,0,0,0,33.6
+1/10/2017,Boddington Hospital,0,1,0,0,0,0,6.6
+1/10/2017,Broome Hospital,0,0,0,0,0,2,73.2
+1/10/2017,Hedland Health Campus,0,0,0,0,0,3,109.8
+1/10/2017,Geraldton Hospital,0,0,0,0,0,2,73.2
+1/10/2017,Bridgetown Hospital,0,0,0,0,0,4,146.4
+1/10/2017,Narrogin Hospital,0,0,2,0,0,0,33.6
+1/11/2017,Albany Hospital,0,0,0,0,0,4,146.4
+1/11/2017,Broome Hospital,0,1,0,0,0,0,6.6
+1/12/2017,Albany Hospital,0,0,0,0,0,4,146.4
+1/12/2017,Kununurra Hospital,0,0,2,0,0,0,33.6
+1/12/2017,Broome Hospital,0,0,0,0,0,2,73.2
+1/12/2017,WACHS South West Pharmacy Dept Busselton,0,0,0,0,0,2,73.2
+1/12/2017,Narrogin Hospital,0,0,0,0,0,4,146.4
+1/01/2018,Albany Hospital,0,0,0,0,0,2,73.2
+1/01/2018,Hedland Health Campus,0,0,0,0,0,1,36.6
+1/01/2018,Katanning Hospital,0,0,2,0,0,0,33.6
+1/02/2018,Albany Hospital,0,0,0,0,0,4,146.4
+1/02/2018,Derby Hospital,0,0,2,0,0,0,33.6
+1/02/2018,Kununurra Hospital,1,0,2,0,0,0,35.4
+1/02/2018,Broome Hospital,0,1,0,0,0,0,6.6
+1/02/2018,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/02/2018,Karratha Health Campus,0,0,0,0,0,4,146.4
+1/03/2018,Albany Hospital,0,0,0,0,0,4,146.4
+1/03/2018,Broome Hospital,0,0,0,0,0,2,73.2
+1/03/2018,WACHS South West Pharmacy Dept Busselton,0,0,0,0,0,2,73.2
+1/03/2018,Warren Hospital,0,0,0,0,0,4,146.4
+1/04/2018,Albany Hospital,0,0,0,0,0,6,219.6
+1/04/2018,Kununurra Hospital,0,0,2,0,0,0,33.6
+1/04/2018,Boddington Hospital,0,1,0,0,0,0,6.6
+1/04/2018,Broome Hospital,0,3,0,0,0,0,19.8
+1/04/2018,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/04/2018,Geraldton Hospital,0,0,0,0,0,2,73.2
+1/05/2018,Kununurra Hospital,0,0,2,0,0,0,33.6
+1/05/2018,Broome Hospital,0,1,0,0,0,0,6.6
+1/05/2018,Kalgoorlie Hospital,0,0,0,1,0,0,233
+1/05/2018,Hedland Health Campus,1,0,0,0,0,0,1.8
+1/05/2018,Katanning Hospital,0,0,2,0,0,0,33.6
+1/06/2018,Albany Hospital,0,0,0,0,0,2,73.2
+1/06/2018,Derby Hospital,0,0,2,0,0,0,33.6
+1/06/2018,Broome Hospital,0,0,0,0,0,2,73.2
+1/06/2018,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/06/2018,Karratha Health Campus,0,0,0,0,0,4,146.4
+1/07/2018,Albany Hospital,0,0,0,0,0,2,73.2
+1/07/2018,Broome Hospital,0,1,0,0,0,0,6.6
+1/07/2018,WACHS South West Pharmacy Dept Busselton,0,0,0,0,0,2,73.2
+1/07/2018,Narrogin Hospital,0,0,0,0,0,2,73.2
+1/07/2018,Plantagenet Hospital,0,0,1,0,0,0,16.8
+1/08/2018,Albany Hospital,0,0,0,0,0,4,146.4
+1/08/2018,Derby Hospital,0,0,2,0,0,0,33.6
+1/08/2018,Geraldton Hospital,0,0,0,0,0,2,73.2
+1/08/2018,Karratha Health Campus,0,0,0,0,0,4,146.4
+1/08/2018,Bunbury Hospital,0,0,0,0,0,0,0
+1/08/2018,Fitzroy Crossing Hospital,0,1,0,0,0,0,6.6
+1/09/2018,Albany Hospital,0,0,0,0,0,2,73.2
+1/09/2018,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/09/2018,Karratha Health Campus,0,0,0,0,0,2,73.2
+1/10/2018,Albany Hospital,0,0,0,0,0,4,146.4
+1/10/2018,Derby Hospital,0,0,2,0,0,0,33.6
+1/10/2018,Kununurra Hospital,0,0,2,0,0,0,33.6
+1/10/2018,Boddington Hospital,0,1,0,0,0,0,6.6
+1/10/2018,Broome Hospital,0,1,0,0,0,0,6.6
+1/10/2018,WACHS South West Pharmacy Dept Collie,0,0,2,0,0,0,33.6
+1/10/2018,Esperance Hospital,0,0,0,0,0,2,73.2
+1/11/2018,Albany Hospital,0,0,0,0,0,4,146.4
+1/11/2018,WACHS South West Pharmacy Dept Busselton,0,0,0,0,0,2,73.2
+1/12/2018,Albany Hospital,0,0,0,0,0,4,146.4
+1/12/2018,Derby Hospital,0,0,2,0,0,0,33.6
+1/12/2018,Broome Hospital,0,0,0,0,0,2,73.2
+1/12/2018,Hedland Health Campus,0,0,0,0,0,4,146.4
+1/12/2018,Northam Hospital,0,0,0,0,0,2,73.2
+1/01/2019,Albany Hospital,0,0,0,0,0,2,73.2
+1/01/2019,Derby Hospital,0,0,2,0,0,0,33.6
+1/01/2019,Geraldton Hospital,0,0,0,0,0,2,73.2
+1/01/2019,Karratha Health Campus,0,0,0,0,0,4,146.4
+1/01/2019,Merredin Hospital,0,0,1,0,0,0,16.8
+1/01/2019,Mullewa Hospital,0,1,0,0,0,0,6.6
+1/02/2019,Albany Hospital,0,0,0,0,0,4,146.4
+1/02/2019,Derby Hospital,0,0,2,0,0,0,33.6
+1/02/2019,Broome Hospital,0,1,0,0,0,4,153
+1/02/2019,WACHS South West Pharmacy Dept Busselton,0,0,0,0,0,2,73.2
+1/02/2019,Kalgoorlie Hospital,0,0,0,1,0,0,233
+1/02/2019,Geraldton Hospital,0,0,0,0,0,2,73.2
+1/02/2019,Plantagenet Hospital,0,0,1,0,0,0,16.8
+1/03/2019,Albany Hospital,0,0,0,0,0,4,146.4
+1/03/2019,Derby Hospital,0,1,2,0,0,0,40.2
+1/03/2019,WACHS South West Pharmacy Dept Collie,0,0,2,0,0,0,33.6
+1/04/2019,Broome Hospital,0,0,0,0,0,4,146.4
+1/04/2019,Geraldton Hospital,0,0,0,0,0,2,73.2
+1/04/2019,Narrogin Hospital,0,0,0,0,0,2,73.2
+1/05/2019,Derby Hospital,0,1,2,0,0,0,40.2
+1/05/2019,Kununurra Hospital,0,0,2,0,0,0,33.6
+1/05/2019,Warren Hospital,0,0,0,0,0,2,73.2
+1/06/2019,Boddington Hospital,0,1,0,0,0,0,6.6
+1/06/2019,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/06/2019,Geraldton Hospital,0,0,0,0,0,2,73.2
+1/06/2019,Esperance Hospital,0,0,0,0,0,3,109.8
+1/06/2019,Karratha Health Campus,0,0,0,0,0,2,73.2
+1/06/2019,Fitzroy Crossing Hospital,0,0,2,0,0,0,33.6
+1/07/2019,Albany Hospital,0,0,0,0,0,2,73.2
+1/07/2019,Kununurra Hospital,1,0,0,0,0,0,1.8
+1/07/2019,Broome Hospital,0,1,0,0,0,0,6.6
+1/07/2019,Katanning Hospital,1,0,0,0,0,0,1.8
+1/07/2019,Geraldton Hospital,0,0,0,0,0,4,146.4
+1/08/2019,Albany Hospital,0,0,0,0,0,2,73.2
+1/08/2019,Derby Hospital,0,2,2,0,0,0,46.8
+1/08/2019,Kununurra Hospital,1,0,0,0,0,0,1.8
+1/08/2019,Boddington Hospital,0,1,0,0,0,0,6.6
+1/08/2019,Broome Hospital,0,0,0,0,0,4,146.4
+1/08/2019,WACHS South West Pharmacy Dept Busselton,0,0,0,0,0,2,73.2
+1/08/2019,Kalgoorlie Hospital,0,0,0,1,0,0,233
+1/08/2019,Narrogin Hospital,0,0,0,0,0,2,73.2
+1/08/2019,Augusta Hospital,0,1,0,0,0,0,6.6
+1/09/2019,Derby Hospital,0,0,2,0,0,0,33.6
+1/09/2019,Northam Hospital,0,0,0,0,0,2,73.2
+1/09/2019,Karratha Health Campus,0,0,0,0,0,2,73.2
+1/10/2019,Albany Hospital,0,0,0,0,0,2,73.2
+1/10/2019,Derby Hospital,0,0,3,0,0,0,50.4
+1/10/2019,Broome Hospital,0,0,0,0,0,2,73.2
+1/10/2019,WACHS South West Pharmacy Dept Busselton,0,0,0,0,0,2,73.2
+1/10/2019,Geraldton Hospital,0,0,0,0,0,4,146.4
+1/10/2019,Bridgetown Hospital,0,0,0,0,0,2,73.2
+1/10/2019,Esperance Hospital,0,0,0,0,0,2,73.2
+1/11/2019,Kununurra Hospital,0,0,2,0,0,0,33.6
+1/11/2019,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/11/2019,Narrogin Hospital,0,1,0,0,0,0,6.6
+1/11/2019,Fitzroy Crossing Hospital,0,1,0,0,0,0,6.6
+1/12/2019,Albany Hospital,0,0,1,0,0,0,16.8
+1/12/2019,Derby Hospital,0,0,4,0,0,0,67.2
+1/12/2019,Broome Hospital,1,1,0,0,0,1,45
+1/12/2019,WACHS South West Pharmacy Dept Busselton,0,0,0,0,0,2,73.2
+1/12/2019,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/12/2019,WACHS South West Pharmacy Dept Collie,0,0,4,0,0,0,67.2
+1/12/2019,Bridgetown Hospital,0,0,0,0,0,2,73.2
+1/01/2020,Albany Hospital,0,0,0,0,0,2,73.2
+1/01/2020,Boddington Hospital,0,1,0,0,0,0,6.6
+1/01/2020,Broome Hospital,0,1,0,0,0,0,6.6
+1/01/2020,Geraldton Hospital,0,0,0,0,0,2,73.2
+1/02/2020,Derby Hospital,0,1,0,0,0,0,6.6
+1/02/2020,Boddington Hospital,0,1,0,0,0,0,6.6
+1/02/2020,Broome Hospital,1,1,0,0,0,0,8.4
+1/03/2020,Albany Hospital,0,0,0,0,0,2,73.2
+1/03/2020,Derby Hospital,0,0,2,0,0,0,33.6
+1/03/2020,Broome Hospital,0,0,0,0,0,4,146.4
+1/03/2020,WACHS South West Pharmacy Dept Busselton,0,0,0,0,0,2,73.2
+1/03/2020,Geraldton Hospital,0,0,0,0,0,2,73.2
+1/04/2020,Derby Hospital,0,0,2,0,0,0,33.6
+1/04/2020,Karratha Health Campus,0,0,0,0,0,4,146.4
+1/05/2020,Derby Hospital,0,0,2,0,0,0,33.6
+1/05/2020,Broome Hospital,0,0,0,0,0,2,73.2
+1/05/2020,WACHS South West Pharmacy Dept Collie,0,0,2,0,0,0,33.6
+1/05/2020,Bridgetown Hospital,1,0,0,0,0,0,1.8
+1/06/2020,Albany Hospital,0,0,2,0,0,2,106.8
+1/06/2020,Derby Hospital,0,0,2,0,0,0,33.6
+1/06/2020,WACHS South West Pharmacy Dept Busselton,0,0,0,0,0,2,73.2
+1/06/2020,Carnarvon Hospital,0,0,0,0,0,3,109.8
+1/06/2020,Esperance Hospital,0,0,0,0,0,1,36.6
+1/06/2020,Fitzroy Crossing Hospital,0,0,2,0,0,0,33.6
+1/06/2020,Halls Creek Hospital,1,0,0,0,0,0,1.8
+1/07/2020,Albany Hospital,0,0,0,0,0,2,73.2
+1/07/2020,Derby Hospital,0,0,2,0,0,0,33.6
+1/07/2020,Northam Hospital,0,0,0,0,0,2,73.2
+1/08/2020,Derby Hospital,0,0,4,0,0,0,67.2
+1/08/2020,Kununurra Hospital,0,0,2,0,0,0,33.6
+1/08/2020,Broome Hospital,1,0,0,0,0,3,111.6
+1/08/2020,Kalgoorlie Hospital,0,0,0,1,0,0,233
+1/08/2020,Hedland Health Campus,0,0,0,0,0,4,146.4
+1/09/2020,Derby Hospital,0,0,1,0,0,0,16.8
+1/09/2020,Kununurra Hospital,1,0,0,0,0,0,1.8
+1/09/2020,WACHS South West Pharmacy Dept Collie,0,0,2,0,0,0,33.6
+1/10/2020,Albany Hospital,0,1,0,0,0,2,79.8
+1/10/2020,Derby Hospital,0,0,4,0,0,0,67.2
+1/10/2020,Broome Hospital,0,0,0,0,0,2,73.2
+1/10/2020,WACHS South West Pharmacy Dept Busselton,0,0,0,0,0,2,73.2
+1/10/2020,Karratha Health Campus,0,0,0,0,0,2,73.2
+1/11/2020,Broome Hospital,0,0,0,0,0,2,73.2
+1/11/2020,Geraldton Hospital,0,0,0,0,0,2,73.2
+1/12/2020,Derby Hospital,0,0,2,0,0,0,33.6
+1/12/2020,Boddington Hospital,0,1,0,0,0,0,6.6
+1/12/2020,Kalgoorlie Hospital,0,1,0,0,0,0,6.6
+1/12/2020,Warren Hospital,0,0,0,0,0,2,73.2
+1/01/2021,Albany Hospital,0,0,1,0,0,2,90
+1/01/2021,Busselton Hospital,0,0,0,0,0,2,73.2
+1/01/2021,Derby Hospital,0,0,2,0,0,0,33.6
+1/01/2021,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/01/2021,Warren Hospital,0,0,0,0,0,2,73.2
+1/02/2021,Broome Hospital,0,0,0,0,0,2,73.2
+1/02/2021,Kalgoorlie Hospital,0,3,0,0,0,0,19.8
+1/02/2021,Margaret River Hospital,1,0,0,0,0,0,1.8
+1/02/2021,Karratha Health Campus,0,0,0,0,0,2,73.2
+1/03/2021,Derby Hospital,0,0,2,0,0,0,33.6
+1/03/2021,Kununurra Hospital,0,0,2,0,0,0,33.6
+1/03/2021,Broome Hospital,0,1,0,0,0,0,6.6
+1/03/2021,Halls Creek Hospital,1,0,0,0,0,0,1.8
+1/04/2021,Albany Hospital,0,0,0,0,0,4,146.4
+1/04/2021,Augusta Hospital,0,1,0,0,0,0,6.6
+1/05/2021,Busselton Hospital,0,0,0,0,0,2,73.2
+1/05/2021,Derby Hospital,0,0,4,0,0,0,67.2
+1/05/2021,Broome Hospital,0,2,0,0,0,2,86.4
+1/05/2021,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/05/2021,Geraldton Hospital,0,0,0,0,0,2,73.2
+1/05/2021,Esperance Hospital,0,0,0,0,0,2,73.2
+1/05/2021,Narrogin Hospital,0,0,0,0,0,2,73.2
+1/06/2021,Kununurra Hospital,0,0,2,0,0,0,33.6
+1/06/2021,Warren Hospital,0,0,0,0,0,2,73.2
+1/06/2021,Karratha Health Campus,0,0,0,0,0,2,73.2
+1/07/2021,Albany Hospital,0,0,0,0,0,2,73.2
+1/07/2021,Derby Hospital,0,1,2,0,0,0,40.2
+1/07/2021,Broome Hospital,0,1,0,0,0,2,79.8
+1/07/2021,Kalgoorlie Hospital,0,0,0,1,0,0,233
+1/07/2021,Bridgetown Hospital,0,0,0,0,0,2,73.2
+1/08/2021,Derby Hospital,0,-1,2,0,0,0,27
+1/08/2021,Broome Hospital,1,0,0,0,0,0,1.8
+1/08/2021,Warren Hospital,0,0,0,0,0,2,73.2
+1/08/2021,Bridgetown Hospital,0,0,0,0,0,2,73.2
+1/09/2021,Albany Hospital,0,0,0,0,0,2,73.2
+1/09/2021,Derby Hospital,0,0,2,0,0,0,33.6
+1/09/2021,Broome Hospital,1,1,0,0,0,0,8.4
+1/09/2021,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/09/2021,Northam Hospital,0,0,0,0,0,2,73.2
+1/09/2021,Warren Hospital,0,0,0,0,0,3,109.8
+1/10/2021,Busselton Hospital,0,0,0,0,0,2,73.2
+1/10/2021,Broome Hospital,0,0,0,0,0,2,73.2
+1/10/2021,Geraldton Hospital,0,0,0,0,0,2,73.2
+1/10/2021,Warren Hospital,0,0,0,0,0,5,183
+1/10/2021,Karratha Health Campus,0,0,0,0,0,2,73.2
+1/11/2021,Albany Hospital,0,0,0,0,0,2,73.2
+1/11/2021,Broome Hospital,0,0,0,0,0,2,73.2
+1/11/2021,Warren Hospital,0,0,0,0,0,2,73.2
+1/12/2021,Albany Hospital,0,0,0,0,0,2,73.2
+1/12/2021,Busselton Hospital,0,1,0,0,0,0,6.6
+1/12/2021,Kununurra Hospital,2,0,2,0,0,0,37.1
+1/12/2021,Boddington Hospital,0,1,0,0,0,0,6.6
+1/12/2021,Margaret River Hospital,0,0,0,0,0,1,36.6
+1/12/2021,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/12/2021,Geraldton Hospital,0,0,0,0,0,2,73.2
+1/12/2021,Warren Hospital,0,0,0,0,0,4,146.4
+1/01/2022,Albany Hospital,0,0,0,0,0,2,73.2
+1/01/2022,Broome Hospital,0,0,0,0,0,4,146.4
+1/01/2022,Warren Hospital,0,0,0,0,0,2,73.2
+1/01/2022,Esperance Hospital,0,0,0,0,0,1,36.6
+1/01/2022,Merredin Hospital,0,0,1,0,0,0,16.8
+1/02/2022,Albany Hospital,0,0,0,0,0,2,73.2
+1/02/2022,Derby Hospital,1,0,2,0,0,0,35.4
+1/02/2022,Northam Hospital,0,1,0,0,0,0,6.6
+1/02/2022,Geraldton Hospital,0,0,0,0,0,2,73.2
+1/02/2022,Warren Hospital,0,0,0,0,0,4,146.4
+1/02/2022,Karratha Health Campus,0,0,0,0,0,2,73.2
+1/03/2022,Albany Hospital,0,0,0,0,0,2,73.2
+1/03/2022,Busselton Hospital,0,0,0,0,0,2,73.2
+1/03/2022,Broome Hospital,0,1,0,0,0,2,79.8
+1/03/2022,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/03/2022,Warren Hospital,0,0,0,0,0,4,146.4
+1/03/2022,Esperance Hospital,0,0,0,0,0,2,73.2
+1/04/2022,Albany Hospital,0,0,0,0,0,2,73.2
+1/04/2022,Broome Hospital,0,1,0,0,0,0,6.6
+1/04/2022,Karratha Health Campus,0,0,0,0,0,2,73.2
+1/05/2022,Broome Hospital,1,0,0,0,0,0,1.8
+1/05/2022,Northam Hospital,0,1,0,0,0,0,6.6
+1/05/2022,Geraldton Hospital,0,0,0,0,0,2,73.2
+1/05/2022,Warren Hospital,0,0,0,0,0,2,73.2
+1/05/2022,Esperance Hospital,0,0,0,0,0,1,36.6
+1/05/2022,Narrogin Hospital,0,0,0,0,0,2,73.2
+1/06/2022,Derby Hospital,0,0,2,0,0,0,33.6
+1/06/2022,Kununurra Hospital,0,0,2,0,0,0,33.6
+1/06/2022,Broome Hospital,0,0,0,0,0,2,73.2
+1/06/2022,Kalgoorlie Hospital,0,0,0,1,0,0,233
+1/06/2022,Warren Hospital,0,0,0,0,0,2,73.2
+1/07/2022,Albany Hospital,0,0,0,0,0,4,146.4
+1/07/2022,Broome Hospital,0,0,0,0,0,3,109.8
+1/07/2022,Northam Hospital,0,0,0,0,0,2,73.2
+1/07/2022,Geraldton Hospital,0,0,0,0,0,2,73.2
+1/07/2022,Warren Hospital,0,0,0,0,0,4,146.4
+1/07/2022,Bridgetown Hospital,0,0,0,0,0,2,73.2
+1/08/2022,Albany Hospital,0,0,0,0,0,2,73.2
+1/08/2022,Broome Hospital,0,1,0,0,0,1,43.2
+1/08/2022,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/08/2022,Karratha Health Campus,0,0,0,0,0,2,73.2
+1/09/2022,Albany Hospital,0,0,0,0,0,4,146.4
+1/09/2022,Busselton Hospital,0,0,0,0,0,2,73.2
+1/09/2022,Derby Hospital,0,1,2,0,0,0,40.2
+1/09/2022,Broome Hospital,0,1,0,0,0,0,6.6
+1/09/2022,Northam Hospital,0,0,0,0,0,4,146.4
+1/09/2022,Geraldton Hospital,0,0,0,0,0,2,73.2
+1/09/2022,Warren Hospital,0,0,0,0,0,2,73.2
+1/10/2022,Albany Hospital,0,0,0,0,0,2,73.2
+1/10/2022,Broome Hospital,0,1,0,0,0,1,43.2
+1/10/2022,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/10/2022,Katanning Hospital,0,0,2,0,0,0,33.6
+1/10/2022,Warren Hospital,0,0,0,0,0,2,73.2
+1/11/2022,Albany Hospital,0,0,0,0,0,2,73.2
+1/11/2022,Kununurra Hospital,0,0,2,0,0,0,33.6
+1/11/2022,Broome Hospital,0,0,0,0,0,2,73.2
+1/11/2022,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/11/2022,Warren Hospital,0,0,0,0,0,2,73.2
+1/12/2022,Albany Hospital,0,0,0,0,0,2,73.2
+1/12/2022,Broome Hospital,0,1,0,0,0,0,6.6
+1/12/2022,Geraldton Hospital,0,0,0,0,0,2,73.2
+1/12/2022,Warren Hospital,0,0,0,0,0,2,73.2
+1/12/2022,Karratha Health Campus,0,0,0,0,0,2,73.2
+1/12/2022,Narrogin Hospital,2,0,0,0,0,0,3.5
+1/12/2022,Collie Hospital,0,0,0,0,0,4,146.4
+1/01/2023,Derby Hospital,0,0,1,0,0,0,16.8
+1/01/2023,Boddington Hospital,0,1,0,0,0,0,6.6
+1/01/2023,Broome Hospital,1,1,0,0,0,0,8.4
+1/01/2023,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/02/2023,Albany Hospital,0,0,0,0,0,4,146.4
+1/02/2023,Broome Hospital,0,2,0,0,0,0,13.2
+1/02/2023,Warren Hospital,0,0,0,0,0,2,73.2
+1/03/2023,Derby Hospital,1,0,2,0,0,0,35.4
+1/03/2023,Broome Hospital,0,0,0,0,0,2,73.2
+1/03/2023,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/04/2023,Albany Hospital,0,0,0,0,0,2,73.2
+1/04/2023,Busselton Hospital,0,0,0,0,0,2,73.2
+1/04/2023,Kununurra Hospital,2,0,0,0,0,0,3.5
+1/04/2023,Broome Hospital,2,3,0,0,0,0,23.3
+1/05/2023,Albany Hospital,0,0,0,0,0,6,219.6
+1/05/2023,Kununurra Hospital,1,0,0,0,0,0,1.8
+1/05/2023,Broome Hospital,1,0,0,0,0,0,1.8
+1/05/2023,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/05/2023,Karratha Health Campus,0,0,0,0,0,2,73.2
+1/06/2023,Broome Hospital,0,1,0,0,0,0,6.6
+1/06/2023,Geraldton Hospital,0,0,0,0,0,4,146.4
+1/06/2023,Esperance Hospital,0,0,0,0,0,3,109.8
+1/06/2023,Augusta Hospital,0,1,0,0,0,0,6.6
+1/07/2023,Broome Hospital,0,0,0,0,0,2,73.2
+1/07/2023,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/07/2023,Esperance Hospital,0,0,0,0,0,0,0
+1/08/2023,Albany Hospital,0,0,0,0,0,4,146.4
+1/08/2023,Busselton Hospital,0,0,0,0,0,2,73.2
+1/08/2023,Boddington Hospital,0,1,0,0,0,0,6.6
+1/08/2023,Broome Hospital,0,3,0,0,0,0,19.8
+1/08/2023,Kalgoorlie Hospital,0,0,0,1,0,0,233
+1/08/2023,Karratha Health Campus,0,0,0,0,0,2,73.2
+1/09/2023,Albany Hospital,0,0,0,0,0,2,73.2
+1/09/2023,Busselton Hospital,0,0,0,0,0,1,36.6
+1/09/2023,Kununurra Hospital,0,0,2,0,0,0,33.6
+1/09/2023,Broome Hospital,0,2,0,0,0,0,13.2
+1/09/2023,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/10/2023,Albany Hospital,0,0,0,0,0,2,73.2
+1/10/2023,Busselton Hospital,0,0,0,0,0,2,73.2
+1/10/2023,Derby Hospital,0,0,2,0,0,0,33.6
+1/10/2023,Broome Hospital,0,1,0,0,0,0,6.6
+1/10/2023,Narrogin Hospital,0,1,0,0,0,0,6.6
+1/10/2023,Augusta Hospital,0,1,0,0,0,0,6.6
+1/11/2023,Albany Hospital,0,1,0,0,0,2,79.8
+1/11/2023,Busselton Hospital,0,0,0,0,0,4,146.4
+1/11/2023,Kununurra Hospital,2,0,2,0,0,0,37.1
+1/11/2023,Broome Hospital,5,1,0,0,0,2,88.6
+1/11/2023,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/11/2023,Geraldton Hospital,0,0,0,0,0,2,73.2
+1/12/2023,Busselton Hospital,0,1,0,0,0,1,43.2
+1/12/2023,Broome Hospital,0,2,0,0,0,0,13.2
+1/12/2023,Warren Hospital,0,0,0,0,0,4,146.4
+1/12/2023,Bridgetown Hospital,0,0,0,0,0,2,73.2
+1/12/2023,Karratha Health Campus,0,0,0,0,0,2,73.2
+1/01/2024,Albany Hospital,0,0,0,0,0,2,73.2
+1/01/2024,Busselton Hospital,0,0,0,0,0,1,36.6
+1/01/2024,Kununurra Hospital,0,0,2,0,0,0,33.6
+1/01/2024,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/01/2024,Northam Hospital,0,0,0,0,0,4,146.4
+1/02/2024,Albany Hospital,0,0,0,0,0,2,73.2
+1/02/2024,Busselton Hospital,0,0,0,0,0,5,183
+1/02/2024,Kununurra Hospital,0,0,2,0,0,0,33.6
+1/02/2024,Broome Hospital,0,2,0,0,0,0,13.2
+1/02/2024,Geraldton Hospital,0,0,0,0,0,2,73.2
+1/02/2024,Harvey Hospital,1,0,0,0,0,0,1.8
+1/03/2024,Albany Hospital,0,0,0,0,0,2,73.2
+1/03/2024,Derby Hospital,0,0,2,0,0,0,33.6
+1/03/2024,Broome Hospital,1,1,0,0,0,2,81.6
+1/03/2024,Denmark Hospital,0,0,0,0,0,1,36.6
+1/03/2024,Northam Hospital,0,0,0,0,0,2,73.2
+1/04/2024,Busselton Hospital,0,0,0,0,0,2,73.2
+1/04/2024,Kununurra Hospital,0,0,2,0,0,0,33.6
+1/04/2024,Karratha Health Campus,0,0,0,0,0,2,73.2
+1/05/2024,Albany Hospital,0,0,0,0,0,4,146.4
+1/05/2024,Kununurra Hospital,0,0,2,0,0,0,33.6
+1/05/2024,Broome Hospital,1,2,0,0,0,2,88.2
+1/05/2024,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/05/2024,Bridgetown Hospital,0,0,0,0,0,2,73.2
+1/05/2024,Narrogin Hospital,0,0,0,0,0,2,73.2
+1/06/2024,Busselton Hospital,0,0,0,0,0,4,146.4
+1/06/2024,Kununurra Hospital,0,0,2,0,0,0,33.6
+1/06/2024,Broome Hospital,0,1,0,0,0,0,6.6
+1/06/2024,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/06/2024,Katanning Hospital,0,0,2,0,0,0,33.6
+1/07/2024,Albany Hospital,0,0,0,0,0,2,73.2
+1/07/2024,Busselton Hospital,0,1,0,0,0,4,153
+1/07/2024,Derby Hospital,0,0,2,0,0,0,33.6
+1/07/2024,Broome Hospital,0,2,0,0,0,0,13.2
+1/07/2024,Karratha Health Campus,0,0,0,0,0,2,73.2
+1/08/2024,Albany Hospital,0,0,0,0,0,2,73.2
+1/08/2024,Busselton Hospital,0,0,0,0,0,8,292.8
+1/08/2024,Broome Hospital,0,1,0,0,0,0,6.6
+1/08/2024,Esperance Hospital,0,0,0,0,0,3,109.8
+1/09/2024,Albany Hospital,0,0,1,0,0,2,90
+1/09/2024,Busselton Hospital,0,0,0,0,0,10,366
+1/09/2024,Kununurra Hospital,0,0,2,0,0,0,33.6
+1/09/2024,Broome Hospital,0,1,0,0,0,2,79.8
+1/09/2024,Hedland Health Campus,0,0,0,0,0,2,73.2
+1/09/2024,Northam Hospital,0,0,0,0,0,2,73.2
+1/09/2024,Geraldton Hospital,0,0,0,0,0,4,146.4
+1/10/2024,Albany Hospital,0,0,0,0,0,2,73.2
+1/10/2024,Busselton Hospital,0,0,0,0,0,2,73.2
+1/10/2024,Kununurra Hospital,0,0,2,0,0,0,33.6
+1/10/2024,Broome Hospital,1,0,0,0,0,0,1.8
+1/10/2024,Narrogin Hospital,0,0,0,0,0,2,73.2
+1/11/2024,Albany Hospital,0,0,0,0,0,2,73.2
+1/11/2024,Busselton Hospital,0,0,0,0,0,2,73.2
+1/11/2024,Broome Hospital,5,5,0,0,0,0,41.8
+1/11/2024,Kalgoorlie Hospital,0,0,0,1,0,0,233
+1/11/2024,Karratha Health Campus,0,0,0,0,0,2,73.2
+1/11/2024,Narrogin Hospital,0,2,0,0,0,0,13.2
+1/12/2024,Albany Hospital,0,0,0,0,0,2,73.2
+1/12/2024,Busselton Hospital,0,0,0,0,0,2,73.2
+1/12/2024,Broome Hospital,0,1,0,0,0,0,6.6

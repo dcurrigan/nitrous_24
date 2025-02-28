@@ -1,0 +1,47 @@
+id,name,address,suburb,postcode,state,country,lat,long,region,network,type
+0,Armadale-Kelmscott Memorial Hospital,3056 Albany Highway,MOUNT NASURA,6112,WA,Australia,-32.13285937,116.0208823,metro,EMHS,public
+1,Bentley Hospital,33 Mills Street,BENTLEY,6102,WA,Australia,-32.00552326,115.9275752,metro,EMHS,public
+2,Fiona Stanley Hospital,11 Robin Warren Drive,MURDOCH,6150,WA,Australia,-32.07017057,115.8464028,metro,SMHS,public
+3,Kalamunda District Community Hospital,Elizabeth Street,KALAMUNDA,6076,WA,Australia,-31.96669656,116.0606286,metro,EMHS,public
+4,Osborne Park Hospital,Osborne Place,STIRLING,6021,WA,Australia,-31.88688914,115.8039108,metro,NMHS,public
+5,Rockingham General Hospital,Elanora Drive,COOLOONGUP,6168,WA,Australia,-32.29059171,115.7714236,metro,SMHS,public
+6,Sir Charles Gairdner Hospital,Hospital Avenue,NEDLANDS,6009,WA,Australia,-31.96790947,115.8149461,metro,NMHS,public
+7,King Edward Memorial Hospital For Women,374 Bagot Road,SUBIACO,6008,WA,Australia,-31.94991276,115.8182891,metro,NMHS,public
+8,Royal Perth Hospital - Theatres,Wellington Street,PERTH,6000,WA,Australia,-31.95421351,115.8657917,metro,EMHS,public
+9,Perth Children's Hospital - Theatre,15 Hospital Avenue,NEDLANDS,6009,WA,Australia,-31.9679118,115.8149438,metro,CAHS,public
+10,Busselton Hospital,Mill Road,BUSSELTON,6280,WA,Australia,-33.65412948,115.3195771,regional,WACHS,public
+11,Derby Hospital,Clarendon Street,DERBY,6728,WA,Australia,-17.30606282,123.6330489,regional,WACHS,public
+12,Albany Hospital,Warden Avenue,ALBANY,6330,WA,Australia,-35.00331257,117.9047889,regional,WACHS,public
+13,Kununurra Hospital,96 Coolibah Drive,KUNUNURRA,6743,WA,Australia,-15.77521411,128.7338277,regional,WACHS,public
+14,Katanning Hospital,Clive Street,KATANNING,6317,WA,Australia,-33.68280262,117.5638016,regional,WACHS,public
+15,Karratha Health Campus,Cnr. Balmoral and Warambie Roads,PEGS CREEK,6714,WA,Australia,-20.73217065,116.839512,regional,WACHS,public
+16,Geraldton Hospital,Shenton Street,GERALDTON,6530,WA,Australia,-28.78362668,114.6113028,regional,WACHS,public
+17,Merredin Hospital,Kitchener Road,MERREDIN,6415,WA,Australia,-31.48529231,118.2764055,regional,WACHS,public
+18,Mullewa Hospital,Elder Street,MULLEWA,6630,WA,Australia,-28.53555205,115.5099666,regional,WACHS,public
+19,Warren Hospital,Hospital Avenue,MANJIMUP,6258,WA,Australia,-34.24130256,116.1537733,regional,WACHS,public
+20,Broome Hospital,Robinson Street,BROOME,6725,WA,Australia,-17.96043429,122.2365706,regional,WACHS,public
+21,Kalgoorlie Hospital,Piccadilly Street,KALGOORLIE,6430,WA,Australia,-30.74092558,121.4704451,regional,WACHS,public
+22,Margaret River Hospital,Farrelly Street,MARGARET RIVER,6285,WA,Australia,-33.9520979,115.0711138,regional,WACHS,public
+23,Plantagenet Hospital,Langton Road,MOUNT BARKER,6324,WA,Australia,-34.62578819,117.6539094,regional,WACHS,public
+24,Denmark Hospital,50 Scotsdale Road,DENMARK,6333,WA,Australia,-34.95613238,117.3581263,regional,WACHS,public
+25,Northam Hospital,Robinson Street,NORTHAM,6401,WA,Australia,-31.64954894,116.6572936,regional,WACHS,public
+26,Halls Creek Hospital,70 Roberta Avenue,HALLS CREEK,6770,WA,Australia,-18.22617372,127.6662759,regional,WACHS,public
+27,Augusta Hospital,Donovan Street,AUGUSTA,6290,WA,Australia,-34.30541859,115.1575023,regional,WACHS,public
+28,Bridgetown Hospital,Peninsula Road,BRIDGETOWN,6255,WA,Australia,-33.95107757,116.1321691,regional,WACHS,public
+29,Esperance Hospital,Hicks Street,ESPERANCE,6450,WA,Australia,-33.85610559,121.8921771,regional,WACHS,public
+30,Carnarvon Hospital,Cleaver Street,CARNARVON,6701,WA,Australia,-24.88689562,113.6589712,regional,WACHS,public
+31,Fitzroy Crossing Hospital,Fallon Road,FITZROY CROSSING,6765,WA,Australia,-18.19212138,125.5627632,regional,WACHS,public
+32,Bunbury Hospital,Bussell Highway (Cnr. Robertson Drive),BUNBURY,6230,WA,Australia,-33.366838,115.6482664,regional,WACHS,public
+33,Boddington Hospital,Hotham Avenue,BODDINGTON,6390,WA,Australia,-32.8037,116.4761,regional,WACHS,public
+34,Narrogin Hospital,Williams Road,NARROGIN,6312,WA,Australia,-32.9363,117.1689,regional,WACHS,public
+35,WACHS South West Pharmacy Dept Busselton,Mill Road,BUSSELTON,6280,WA,Australia,-33.65412948,115.3195771,regional,WACHS,public
+36,WACHS South West Pharmacy Dept Collie,Deakin Street,COLLIE,6225,WA,Australia,-33.3514,116.1623,regional,WACHS,public
+37,Collie Hospital,Deakin Street,COLLIE,6225,WA,Australia,-33.3514,116.1623,regional,WACHS,public
+38,Hedland Health Campus,2-34 Colebatch Way,SOUTH HEDLAND,6722,WA,Australia,-20.4135,118.5981,regional,WACHS,public
+39,Harvey Hospital,45 Hayward Street,HARVEY,6220,WA,Australia,-33.0772,115.8958,regional,WACHS,public
+40,Fremantle Hospital,Alma Street,FREMANTLE,6160,WA,Australia,-32.0584,115.7514,metro,SMHS,public
+41,Bethesda Hospital,25 Queenslea Drive,CLAREMONT,6010,WA,Australia,-31.9878,115.7788,metro,Private,private
+42,Perth Children's Hospital - Pack Store,15 Hospital Avenue,NEDLANDS,6009,WA,Australia,-31.9679118,115.8149438,metro,CAHS,public
+43,Royal Perth Hospital - Main Store,Wellington Street,PERTH,6000,WA,Australia,-31.95421351,115.8657917,metro,EMHS,public
+44,South Perth Hospital,76 South Terrace,SOUTH PERTH,6151,WA,Australia,-31.98806,115.8637,metro,Private,private
+45,UWA - OHCWA,Hospital Avenue,NEDLANDS,6009,WA,Australia,-31.9697,115.8158,metro,Private,private
