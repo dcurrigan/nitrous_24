@@ -11,9 +11,9 @@ let regional_data = [];
 var nitrous_data;
 
 Promise.all([
-  d3.csv("/data/hospitals.csv"),
-  d3.csv("/data/metro_final.csv"),
-  d3.csv("/data/regional_final.csv")
+  d3.csv("data/hospitals.csv"),
+  d3.csv("data/metro_final.csv"),
+  d3.csv("data/regional_final.csv")
 ]).then(function([hospData, metroData, regionalData]) {
 
   // Destructure the results array into two variables
